@@ -1,0 +1,1030 @@
+USER: Place a domino on the ground, then make the next one 30% bigger.
+ASSISTANT: Dhig hal domino dhulka, kadibna kan xiga ka dhig 30% ka weyn.
+
+USER: And if you keep increasing their size, the 20th domino would be taller than a house.
+ASSISTANT: Haddii aad sii waddo weyneyntooda, domino-ga 20aad wuxuu ka dheeraan lahaa guri.
+
+USER: And the 45th would be higher than Mount Everest.
+ASSISTANT: Domino-ga 45aadna wuxuu ka sare mari lahaa Buurta Everest.
+
+USER: Now, when you tip over the first one, each domino has just enough energy to knock over the next.
+ASSISTANT: Marka aad riddo domino-gii ugu horreeyay, mid kasta wuxuu leeyahay tamar ku filan oo uu ku rido kan xiga.
+
+USER: But the 74th domino would weigh more than the Earth.
+ASSISTANT: Laakiin domino-ga 74aad wuxuu ka cuslaan lahaa Dhulka.
+
+USER: And at that scale, the domino would have such strong gravity that they would start pulling the Earth and each other toward a shared center of mass.
+ASSISTANT: Heerkaasna domino-yadu waxay yeelan lahaayeen cufisjiidad aad u xoog badan oo bilaabi lahaa inuu Dhulka iyo domino-yada kale u jiido hal xarun oo wadajir ah.
+
+USER: If someone tripped and fell off of the building and you threw out a sticky hand to try and save him, it obviously wouldn’t do anything.
+ASSISTANT: Haddii qof siibto oo dhisme ka soo dhaco aadna u tuurto gacan dhegdheg leh si aad u badbaadiso, waxba ma qaban lahayn.
+
+USER: But, if you made the entire arm over 60 ft long with a palm big enough to wrap around his chest
+ASSISTANT: Laakiin haddii gacanta oo dhan laga dhigo in ka badan 60 fiit, calaacalkeeduna ku filnaato inay laabta ku wareegto,
+
+USER: and around 20 people holding the end,
+ASSISTANT: isla markaana ilaa 20 qof ay dhammaadka qabtaan,
+
+USER: and you had it painted with a special glue that could hold over 2,000 lb,
+ASSISTANT: laguna mariyo koolo gaar ah oo qaadi karta in ka badan 2,000 rodol,
+
+USER: after the hand slapped onto his body, it would dry in just a few seconds
+ASSISTANT: marka gacantu jirkiisa ku dhegto, waxay qallali lahayd dhowr ilbiriqsi gudahood,
+
+USER: before stretching another 30 ft to break his fall safely.
+ASSISTANT: kadibna waxay sii kala bixi lahayd 30 fiit kale si ay si badbaado leh u qabato dhicitaankiisa.
+
+USER: But, if the hand touches his bare skin, it might just tear a chunk off instead.
+ASSISTANT: Laakiin haddii gacantu taabato maqaarkiisa qaawan, waxay xitaa ka siibi lahayd qayb hilibkiisa ah.
+
+USER: He adopted the baboon as a pet and brought it along with him when he joined the army.
+ASSISTANT: Wuxuu daanyeerka ka dhigtay xayawaan uu dhaqdo wuxuuna watay markii uu ciidanka ku biiray.
+
+USER: He gave him a uniform and made him an official mascot.
+ASSISTANT: Wuxuu u xiray darees wuxuuna ka dhigay astaanta rasmiga ah ee ciidanka.
+
+USER: The monkey marched with the troops and lived in the trenches
+ASSISTANT: Daanyeerkii wuxuu la socon jiray askarta wuxuuna ku noolaa godadka dagaalka.
+
+USER: and even helped keep guard, tugging at the soldier’s clothes if he heard an enemy approaching.
+ASSISTANT: Wuxuu xitaa ka caawin jiray waardiyeynta, isagoo jiidi jiray dharka askarta haddii uu maqlo cadow soo dhowaanaya.
+
+USER: When his owner was shot in the shoulder, the baboon tried to save him by licking the wound.
+ASSISTANT: Markii ninkii lahaa garabka laga toogtay, daanyeerkii wuxuu isku dayay inuu badbaadiyo isagoo leefaya dhaawaca.
+
+USER: Not long after they were struck with a shell which blew off most of the animal’s leg.
+ASSISTANT: Wax yar kadib waxaa ku dhacay madfac gooyay inta badan lugtii xayawaanka.
+
+USER: But both of them survived and they were sent home as heroes.
+ASSISTANT: Laakiin labadooduba way badbaadeen waxaana guriga loogu diray iyagoo geesiyaal ah.
+
+USER: Take about $800 and stash it out of the other players sight.
+ASSISTANT: Qaado ku dhowaad $800 oo ku qari meel aysan ciyaartoyda kale arkin.
+
+USER: And during the game, when it looks like you’re about to run out of money and lose, you pull out the hidden cash.
+ASSISTANT: Inta ciyaartu socoto, marka ay u muuqato inaad lacagtii ka dhammaanayso oo aad khasaarayso, soo saar lacagtii qarsoonayd.
+
+USER: Do this a few times throughout the game and you’ll condition the other players to always assume you have a stash somewhere.
+ASSISTANT: Sidaas dhowr jeer samee si ciyaartoyda kale ugu maleeyaan inaad mar walba meel lacag ku qarsato.
+
+USER: Then, when no one’s paying attention, you grab a mix of large bills from the bank aiming to steal around $3,200.
+ASSISTANT: Kadib marka cidina ku fiirinayn, bangiga ka qaado lacago waaweyn oo isku jira adigoo doonaya inaad xaddo ku dhowaad $3,200.
+
+USER: That’s enough for three to four new stashes that you can work with.
+ASSISTANT: Taasi waxay ku filan tahay saddex ilaa afar meelood oo cusub oo lacag lagu qariyo.
+
+USER: Now, when you’re actually about to lose, you pull out the stolen cash and no one will question where it came from.
+ASSISTANT: Hadda marka aad dhab ahaan khasaarayso, waxaad soo saari kartaa lacagtii la xaday cidna ma waydiin doonto meesha ay ka timid.
+
+USER: He dropped his hammer while working in the field, so his friend grabbed a metal detector and they started looking.
+ASSISTANT: Wuxuu dubbihii ku tuuray isagoo beer ka shaqeynaya, markaas saaxiibkiis wuxuu qaatay qalab biraha lagu raadiyo waxayna bilaabeen raadinta.
+
+USER: The device suddenly started beeping and they thought they had found the hammer, so they dug into the ground,
+ASSISTANT: Qalabkii si lama filaan ah ayuu u dhawaaqay, waxayna u maleeyeen inay heleen dubbihii markaas ayay dhulka qodeen.
+
+USER: but ended up uncovering silver spoons, then gold jewelry and ancient coins.
+ASSISTANT: Laakiin waxay heleen malqaacado qalin ah, dahab iyo lacag qadiimi ah.
+
+USER: He called the police and the next day archaeologists rushed in,
+ASSISTANT: Wuxuu wacay booliska maalintii xigtayna khubaro qadiimiga baaro ayaa yimid.
+
+USER: finding over 14,000 Roman coins along with pounds of jewelry and tableware that had been buried in the field for about 1,600 years.
+ASSISTANT: Waxay heleen in ka badan 14,000 oo lacagihii Roomaanka ah iyo dahab badan oo dhulka ku aasnaa ku dhowaad 1,600 sano.
+
+USER: The two ended up sharing the loot that was worth millions.
+ASSISTANT: Labadoodiina ugu dambeyn way qaybsadeen hantidii oo malaayiin dollar qiimaheedu ahaa.
+
+USER: If you clip their nail too far, the blade slices into a bundle of blood vessels and a nerve inside,
+ASSISTANT: Haddii aad ciddida si aad ah u jarto, qalabku wuxuu gaari karaa xididdada dhiigga iyo neerfaha gudaha ku jira.
+
+USER: causing it to gush out blood and send a sharp jolt of pain.
+ASSISTANT: Taasna waxay keentaa dhiig badan iyo xanuun aad u daran.
+
+USER: But, it’s hard to see from the outside of the nail.
+ASSISTANT: Laakiin bannaanka ciddida lagama arki karo si fudud.
+
+USER: So, to avoid hitting it, start by trimming just the very tip of the nail.
+ASSISTANT: Si aad uga fogaato, ku bilow inaad wax yar ka jarto caarada ciddida.
+
+USER: Then, slowly shorten it into small slivers, stopping when you see a tiny dot.
+ASSISTANT: Kadib si tartiib ah ugu sii jar qaybo yaryar, jooji marka aad aragto dhibic yar.
+
+USER: They built a giant metal wheel and stuck an entire room inside before bolting all of the furniture down.
+ASSISTANT: Waxay dhiseen giraangir bir weyn ah waxayna gudaha geliyeen qol dhan kadibna alaabtii oo dhan ayay si adag ugu xireen.
+
+USER: Next, they strapped the camera onto the room while the dancer climbed inside the room.
+ASSISTANT: Kadib kamaraddii ayay qolka ku xireen halka qoob ka ciyaaryahanku gudaha galay.
+
+USER: Motors then spun the wheel making the room and camera rotate while gravity held the dancer in place.
+ASSISTANT: Matoorro ayaa markaas wareejiyay giraangirta taasoo qolka iyo kamaradda rogaysay halka cufisjiidadku qoob ka ciyaaryahanka meeshiisa ku hayay.
+
+USER: And by timing his movements perfectly, he could jump from the floor to the walls before finally dancing on the ceiling.
+ASSISTANT: Isagoo dhaqdhaqaaqiisa si fiican u waafajinaya ayuu dhulka uga boodi karay darbiyada ugu dambayna saqafka ayuu ku dul ciyaarayay.
+
+USER: They poured the bullets into the pot before covering them with water and boiling them for hours.
+ASSISTANT: Waxay rasaastii ku shubeen dheri kadibna biyo ayay ku dareen waxayna karkariyeen saacado badan.
+
+USER: You see, the soldiers hoped this would damage the material inside while keeping the outer shell the same.
+ASSISTANT: Askartu waxay rajeynayeen in tani dhaawacayso walxaha gudaha ku jira halka bannaanka rasaastu sidii hore ahaanayo.
+
+USER: This way, they could trade the ammunition for food.
+ASSISTANT: Sidaas ayay rasaasta ugu beddelan kareen cunto.
+
+USER: And if the ammo was sold to their enemies, the damaged bullets wouldn’t fire correctly, which would jam their guns.
+ASSISTANT: Haddii rasaasta loo iibiyo cadowgooda, xabbaduhu si sax ah uma dhacayaan taasoo qoryahooda cillad gelin lahayd.
+
+USER: But, modern bullets can actually handle a ton of heat, so even after boiling them, they still fired perfectly.
+ASSISTANT: Laakiin rasaasta casriga ah kulayl badan way u adkeysan kartaa, sidaas darteed xitaa karkarinta kadib si caadi ah ayay weli u shaqeynayeen.
+
+USER: When you drop the puck, air rushes up from thousands of tiny holes, lifting it and letting it fly across the surface.
+ASSISTANT: Marka aad tuurto furka, hawo ayaa ka soo baxda kumanaan dalool oo yaryar taasoo kor u qaadaysa kuna sabbeyneysa dusha sare.
+
+USER: You see, the table was loosely based on ice hockey, but while pucks glide on ice, they barely move on other surfaces.
+ASSISTANT: Miiskaan waxaa laga sameeyay fikradda xeegada barafka, laakiin furku si fiican ayuu ugu simbiriirixdaa barafka halka meelaha kale uu si dhib leh uga dhaqaaqo.
+
+USER: To solve this, a powerful fan is hidden underneath the table, pumping air in to create a thin cushion underneath the pucks,
+ASSISTANT: Si taas loo xalliyo, marawaxad xoog badan ayaa miiska hoostiisa ku qarsoon taasoo hawo gelinaysa si ay furka hoostiisa uga sameyso lakab hawo ah.
+
+USER: letting the puck sail smoothly across the surface, just like ice.
+ASSISTANT: Taas ayaana furka u oggolaanaysa inuu si siman ugu dul socdo dusha sare sida barafka.
+
+USER: While he was studying, a hand reached through the window and dropped a velvet case onto his desk.
+ASSISTANT: Intuu wax baranayay ayaa gacan daaqadda kasoo gashay oo sanduuq jilicsan miiskiisa kusoo tuurtay.
+
+USER: Inside were two glowing contact lenses.
+ASSISTANT: Gudaha waxaa ku jiray labo lens oo ifaya.
+
+USER: He slid one onto each eye and immediately the text on the page moved.
+ASSISTANT: Mid ayuu il kasta saartay markiiba qoraalkii bogga saarnaa wuu dhaqaaqay.
+
+USER: Diagrams animated, labels slid in place, and the answers appeared right on the paper.
+ASSISTANT: Sawirradii way dhaqaaqeen, magacyadiina meeshooda ayay galeen jawaabihiina warqadda ayay kasoo muuqdeen.
+
+USER: Every problem was solved before he even finished reading it.
+ASSISTANT: Su’aal kasta waa la xalliyay intuusan akhriskeeda dhamayn.
+
+USER: On the way out of the library, he saw the man who gave him the lenses watching in the distance.
+ASSISTANT: Markuu maktabadda ka baxay ayuu meel fog ku arkay ninkii lens-yada siiyay oo daawanaya.
+
+USER: During labs, the lines he needed to cut appeared as paths.
+ASSISTANT: Intii tijaabooyinka socdeen, meelaha uu jarayo waxay ugu muuqanayeen khadad cad.
+
+USER: And when taking a test, every question lit up with answers only he could see.
+ASSISTANT: Markuu imtixaan galayana, su’aal kasta waxaa kasoo muuqanayay jawaabo isaga keliya arki karo.
+
+USER: He graduated at the top of his class and saw the mysterious man again in the crowd.
+ASSISTANT: Wuxuu ku qalin jabiyay darajada ugu sareysa wuxuuna mar kale dadka dhexdiisa ku arkay ninkii qarsoodiga ahaa.
+
+USER: Years passed by and he became a legend in the industry.
+ASSISTANT: Sanado kadib wuxuu noqday halyeey caan ka ah xirfaddiisa.
+
+USER: While operating, overlays hovered over organs, showing him exactly what to do.
+ASSISTANT: Markuu qalliinka sameynayay, calaamado dul sabeynaya xubnaha jirka ayaa tusayay waxa saxda ah ee uu sameynayo.
+
+USER: And every single one of his patients survived.
+ASSISTANT: Dhammaan bukaannadiisiina way badbaadeen.
+
+USER: After years of this, the call came.
+ASSISTANT: Sanado kadib wicitaankii ayaa yimid.
+
+USER: The president had suffered a stroke live on air.
+ASSISTANT: Madaxweynaha ayaa istaroog ku dhacay isagoo toos looga daawanayo telefishinka.
+
+USER: Emergency surgery was needed and he was their best bet.
+ASSISTANT: Qalliin degdeg ah ayaa loo baahday isaga ayaana ahaa rajadooda ugu weyn.
+
+USER: His hands were shaking as he scrubbed in, but as he stood over the president, the lenses immediately brightened, drawing neat paths across the failing heart.
+ASSISTANT: Gacmihiisu way gariirayeen markii uu isu diyaarinayay qalliinka, laakiin markuu madaxweynaha dul istaagay lens-yadii way ifeen waxayna wadnaha korkiisa kasoo saareen khadad hagaya.
+
+USER: He began to push the scalpel into the skin, but then everything disappeared.
+ASSISTANT: Wuxuu bilaabay inuu mindida qalliinka maqaarka geliyo laakiin markiiba wax walba way lumeen.
+
+USER: There was nothing to guide his hands.
+ASSISTANT: Wax hagaya gacmihiisa ma jirin.
+
+USER: Shaking, he pushed the scalpel anyway and cut too deep.
+ASSISTANT: Isagoo gariiraya ayuu haddana mindidii riixay wuxuuna jaray si aad u qoto dheer.
+
+USER: Blood spurted up over his arms and it was too late.
+ASSISTANT: Dhiig ayaa gacmihiisa ku firdhay waqtigiina wuu dhammaaday.
+
+USER: Monitors were flatlining. The president was dead.
+ASSISTANT: Qalabkii kormeerka ayaa istaagay madaxweynihiina wuu dhintay.
+
+USER: The crowd was horrified as they looked down at the body, except for one man.
+ASSISTANT: Dadkii oo dhan way argagexeen markay meydka fiirinayeen marka laga reebo hal nin.
+
+USER: He was completely calm with a faint smile on his face as he turned and walked away.
+ASSISTANT: Isagu si buuxda ayuu u deganaa isagoo dhoollacaddeyn yar leh ayuu jeestay oo iska tagay.
+
+USER: You should look for a river if you get lost in the woods and watch which way it flows, then follow it.
+ASSISTANT: Haddii aad kaynta ku lunto waa inaad raadisaa webi kadibna eegtaa jihada uu u socdo oo aad raacdaa.
+
+USER: You see, humans have always needed water for drinking and farming.
+ASSISTANT: Dadku mar walba waxay u baahnaayeen biyo cabitaan iyo beerasho.
+
+USER: So, they would typically build towns along rivers, meaning following one might lead you back to civilization.
+ASSISTANT: Sidaas darteed badanaa magaalooyinka waxaa laga dhisaa hareeraha webiyada taasoo ka dhigan in raacistiisu kuu horseedi karto meel dad degan yihiin.
+
+USER: But some rivers run through empty forests for miles, meaning you could be walking for a while.
+ASSISTANT: Laakiin qaar ka mid ah webiyada waxay maraan kaymo madhan oo aad u dheer taasoo ka dhigan inaad socon karto waqti dheer.
+
+USER: Press the wood against a curved wall, then slip a marker through a roll of tape and slide it along the wall.
+ASSISTANT: Ku cadaadi looxa gidaar qalloocan kadibna qalin mari gudaha duub cajalad ah oo ku jiid gidaarka.
+
+USER: Now slide the roll of tape along the surface, letting the round edge follow every curve.
+ASSISTANT: Hadda duubka cajaladda ku wad dusha sare adigoo u oggolaanaya geeskiisa wareegsan inuu raaco qallooc kasta.
+
+USER: And because the tape roll keeps the marker the same distance away, it draws the wall’s exact curvature on the boards.
+ASSISTANT: Maadaama duubka cajaladdu qalinka isku masaafad ku hayo, wuxuu looxa ku sawirayaa isla qallooca saxda ah ee gidaarka.
+
+USER: Now just follow the outside of the line as you cut, then sand it down and enjoy the perfect fit.
+ASSISTANT: Hadda raac bannaanka xariiqda markaad jarayso kadibna sim oo ku raaxeyso sida uu si fiican ugu fariistay.
+
+USER: The floorboards snapped under his feet at the abandoned building and he fell straight down a sewer pipe.
+ASSISTANT: Looxyadii sagxadda ayaa cagihiisa ka jabay dhismihii laga tagay wuxuuna si toos ah ugu dhacay dhuumaha bulaacadda.
+
+USER: And when he hit the water, the current swept him away for nearly a mile, leaving him trapped in total darkness.
+ASSISTANT: Markuu biyaha ku dhacay ayay qulqulku qaaday ku dhowaad hal mayl isagoo ku xannibmay mugdi buuxa.
+
+USER: Over a hundred rescuers searched the pipes with floating cameras and 12 hours later, they spotted muddy handprints along the walls.
+ASSISTANT: In ka badan boqol samatabbixiye ayaa dhuumaha ku baaray kamarado sabeynaya 12 saacadood kadibna waxay darbiyada ku arkeen raad gacmo dhoobo leh.
+
+USER: They rushed to an opening nearby where they heard him cry for help.
+ASSISTANT: Waxay u ordeen meel bannaan oo u dhow halkaas oo ay ka maqleen isagoo gargaar dalbanaya.
+
+USER: And after tossing down a rope for him to grab, they finally pulled him out, covered in sewage but alive.
+ASSISTANT: Kadib markii ay xarig u tureen si uu u qabsado ugu dambeyn way soo saareen isagoo bulaacad ku daboolan balse nool.
+
+USER: They built a giant metal frame and covered it with a thick rubber skin before sticking in hoses filled with pressurized air to make it move around.
+ASSISTANT: Waxay dhiseen qaab bir weyn ah waxayna ku dabooleen caag adag kadibna tuubooyin hawo cadaadis leh ku rakibeen si uu u dhaqaaqo.
+
+USER: And after connecting it to a crane, the shark could swim underwater and even pop out from the waves.
+ASSISTANT: Kadib markii wiish lagu xiray, shark-gu biyaha hoostooda ayuu ku dabaalan karayay xitaa hirarka ayuu kasoo boodi karayay.
+
+USER: But they only tested it in fresh water.
+ASSISTANT: Laakiin waxay ku tijaabiyeen oo keliya biyo macaan.
+
+USER: So when the shark was put into the sea, the salt water rusted over the electrical parts.
+ASSISTANT: Marka shark-ga badda la geliyay biyaha cusbada leh ayaa daxaleeyay qaybihii korontada.
+
+USER: It stopped moving and then sank.
+ASSISTANT: Wuu istaagay dhaqaaqiisii kadibna wuu degay.
+
+USER: So instead, the director shot several scenes from the shark’s point of view, which meant he barely had to show it at all,
+ASSISTANT: Sidaas darteed agaasimuhu wuxuu duubay muuqaallo badan oo laga eegayo dhinaca shark-ga taasoo ka dhigtay inuusan si badan u muujin.
+
+USER: and what you imagined in the water ended up being far scarier than any rubber prop could ever be.
+ASSISTANT: Waxa aad maskaxda kaga sawiratay biyaha ayaana noqday wax ka cabsi badan shay kasta oo caag laga sameeyay.
+
+USER: The blind man climbs the tree while listening to directions from his armless friend below.
+ASSISTANT: Ninka indhaha la’ ayaa geedka fuulaya isagoo dhageysanaya tilmaamaha saaxiibkiis aan gacmaha lahayn ee hoose jooga.
+
+USER: He cuts out small shoots to replant
+ASSISTANT: Wuxuu jarayaa laamo yaryar si dib loogu beero.
+
+USER: before the armless man tucks a shovel between his cheek and shoulder, using his feet to push it into the soil and dig holes.
+ASSISTANT: Kadib ninka aan gacmaha lahayn wuxuu majarafad dhex gelinayaa garabka iyo dhabankiisa isagoo cagaha ku qodaya godad.
+
+USER: The blind man places the shoot inside the holes,
+ASSISTANT: Ninka indhaha la’ wuxuu geedka yar gelinayaa godadka.
+
+USER: and his friend gathers water from the river with a bucket and his feet.
+ASSISTANT: Saaxiibkiisna wuxuu webiga uga soo qaadayaa biyo isagoo adeegsanaya baaldi iyo cagihiisa.
+
+USER: For 13 years, they’ve been doing it this way every day in the hopes of restoring their village.
+ASSISTANT: Muddo 13 sano ah maalin kasta sidan ayay u sameynayeen iyagoo rajeynaya inay dib u soo nooleeyaan tuuladooda.
+
+USER: And even though their work has been destroyed by drought and then floods, they still haven’t stopped planting.
+ASSISTANT: Inkastoo abaari iyo daadad burburiyeen shaqadoodii haddana wali ma joojin beerista.
+
+USER: When someone dies in the house, the beekeeper will gently knock on the hive, according to tradition.
+ASSISTANT: Marka qof guriga ku dhinto, dhaqanka ahaan ninka shinida dhaqdaa si tartiib ah ayuu u garaacaa rugta shinida.
+
+USER: Then they’ll whisper the dead person’s name inside.
+ASSISTANT: Kadibna magaca qofkii dhintay ayuu si hoose ugu sheegaa gudaha rugta.
+
+USER: Some even place a black cloth over the hive, while others turn it towards the funeral procession.
+ASSISTANT: Qaar waxay rugta saaraan maro madow halka kuwo kalena ay u jeediyaan dhinaca janaasada.
+
+USER: Now, at weddings, the couple introduces themselves to the bees before a bright cloth is tied to the hive and a piece of cake is left behind.
+ASSISTANT: Aroosyadana lammaanaha ayaa shinida is baraya kahor inta aan maro midab leh rugta lagu xirin oo xabbad keeg ah looga tagin.
+
+USER: Now, beekeepers have done this for centuries because if they don’t keep the bees up to date, well, they just might stop making
+ASSISTANT: Dadka shinida dhaqdaa qarniyo ayay sidan sameynayeen sababtoo ah haddii aysan shinida la socodsiin waxaa laga yaabaa inay joojiso samaynta malabka.
+
+USER: They made the caterpillar smell the chemical, then tiny electric shocks shot through its body, which taught it to avoid that smell.
+ASSISTANT: Waxay diir diiratada uriyeen kiimiko kadibna korontooyin yaryar ayay jirkeeda mariyeen taasoo bartay inay ka fogaato urtaas.
+
+USER: And when the caterpillar was ready to transform, it dug into the earth and shed its skin one final time.
+ASSISTANT: Markii diir diiratadu isu beddelka diyaar u noqotay ayay dhulka gashay oo maqaarkeedii siibisay markii ugu dambeysay.
+
+USER: Next, its own cells began breaking it down from the inside.
+ASSISTANT: Kadib unugyadeeda ayaa bilaabay inay gudaha ka burburiyaan.
+
+USER: Its muscles and organs were recycled, turning its tissues into a nutrient fluid.
+ASSISTANT: Murqaha iyo xubnaheedii dib ayaa loo isticmaalay iyagoo isu beddelay dareere nafaqo leh.
+
+USER: And when the transformation was finally complete, they tested it again with that same smell, and immediately it turned away,
+ASSISTANT: Markii isbeddelku dhammaaday ayay mar kale ku tijaabiyeen isla urtii markiibana way ka jeesatay.
+
+USER: meaning the moth still remembered its life as a caterpillar.
+ASSISTANT: Taasoo ka dhigan in aboorku wali xasuusan yahay noloshii uu ahaa diir diirato.
+
+USER: She handed him a 1-lb weight, and he laughed.
+ASSISTANT: Waxay siisay miisaan 1 rodol ah wuuna qoslay.
+
+USER: He had lifted much heavier weights before, so he grabbed it and held it out in front of him with ease.
+ASSISTANT: Hore ayuu u qaaday miisaanno ka culus sidaas darteed si fudud ayuu gacanta ugu qabtay.
+
+USER: But then, the teacher told him to keep holding it.
+ASSISTANT: Laakiin macallinkii ayaa ku yiri sii wad qabashadiisa.
+
+USER: A few minutes passed, and his arm started to tighten.
+ASSISTANT: Daqiiqado kadib gacantiisii way adkaatay.
+
+USER: After half an hour, it began to ache.
+ASSISTANT: Nus saac kadib xanuun ayay bilowday.
+
+USER: Then, the pain grew sharp.
+ASSISTANT: Kadib xanuunku aad ayuu u sii xoogaystay.
+
+USER: By the end of the period, his arm was shaking. He could barely keep it up.
+ASSISTANT: Dhamaadka waqtiga gacantiisu way gariiraysay si dhib leh ayuuna kor ugu hayay.
+
+USER: Now, the weight never changed. It was still just 1 lb, but the longer he carried it, the heavier it felt.
+ASSISTANT: Miisaanku isma beddelin wali wuxuu ahaa 1 rodol laakiin inta uu sii hayay ayuu uga sii cuslaaday.
+
+USER: And that’s when the teacher explained, “Thinking about a problem for a moment is manageable, but if you carry that stress all day, it’ll drain you.
+ASSISTANT: Markaas ayuu macallinkii yiri “Inaad dhib yar ka fikirto waa la maareyn karaa laakiin haddii aad walwalkaas maalinta oo dhan sidato wuu ku daalinayaa.
+
+USER: Carry it for years, and it can break you.
+ASSISTANT: Haddii aad sanado sidatana wuu ku burburin karaa.
+
+USER: Not because the problem got bigger, but because you got weaker from never setting it down.”
+ASSISTANT: Ma aha dhibku inuu weynaaday ee waa adiga oo daciifay sababtoo ah waligaa ma aadan iska dhigin.”
+
+USER: The toddler wandered away from his home, and search teams combed the desert for him.
+ASSISTANT: Wiilka yar guriga ayuu ka lumay kooxihii baadigoobkana saxaraha ayay ka raadinayeen.
+
+USER: Nearly 7 miles away, the boy walked until dark and curled up under a tree all alone.
+ASSISTANT: Ku dhowaad 7 mayl ayuu socday ilaa mugdi dhacay kadibna geed hoostiis ayuu kaligiis isku duubay.
+
+USER: But a ranch dog was patrolling for coyotes nearby when he found the boy.
+ASSISTANT: Laakiin eey beer ilaalo ah oo yey duurjoog ah ka ilaalinayay agagaarka ayaa helay wiilka.
+
+USER: And instead of returning home, the dog stayed beside him all night, guarding him from coyotes until morning.
+ASSISTANT: Halkii uu guriga ku noqon lahaa eeygii wuxuu agtiisa joogay habeenkii oo dhan isagoo ka ilaalinayay yeyda ilaa subaxdii.
+
+USER: Then the dog led the boy to the ranch, and the boy was finally reunited with his family.
+ASSISTANT: Kadib eeygii wuxuu wiilka geeyay beerta ugu dambeyntiina qoyskiisii ayuu dib ula midoobay.
+
+USER: When the trigger was pulled, a wheel would spin to create sparks, igniting gunpowder inside and sending a bullet flying out of the barrel and toward the enemy.
+ASSISTANT: Marka birta ridista la jiido, giraangir ayaa wareegaysa si ay dhimbiilo u sameyso taasoo shidaysa baaruudda gudaha kuna tuureysa xabbadda qori cadowga dhiniciisa.
+
+USER: And if the shooter missed and the other soldier charged, he could just swing the axe at short range, fighting off the enemy soldier.
+ASSISTANT: Haddii ninkii ridayay seego askariga kalena kusoo ordo, wuxuu adeegsan karayay faaska si uu meel dhow uga dagaallamo.
+
+USER: But since the axe head was big and heavy, it was hard to aim the gun,
+ASSISTANT: Laakiin madaxa faasku maadaama uu weynaa oo cuslaa way adkeyd in qoriga si sax ah loo beegsado.
+
+USER: and the gun’s body made it hard to hold the axe,
+ASSISTANT: Jirka qoriguna wuxuu adkeynayay qabashada faaska.
+
+USER: meaning it would have been more useful as two separate weapons.
+ASSISTANT: Taasoo ka dhigan inay ka faa’iido badnaan lahayd haddii ay ahaan lahaayeen labo hub oo kala duwan.
+
+USER: He placed hot milk into the freezer next to another cup of milk that was at room temperature and for some reason the hot milk froze faster than the room temperature milk.
+ASSISTANT: Wuxuu caano kulul geliyay qaboojiyaha isagoo dhinac dhigay koob kale oo caano heerkulka qolka ah yaabna caanihii kululaa ayaa si ka dhaqso badan u barafoobay.
+
+USER: And even though he researched it, the boy couldn’t figure out why.
+ASSISTANT: Inkastoo uu baaray haddana wiilkii ma fahmin sababta.
+
+USER: Some scientists think it’s because ice needs something to catch on to as it freezes,
+ASSISTANT: Qaar ka mid ah saynisyahannadu waxay aaminsan yihiin in barafku u baahan yahay wax uu ku samaysmo marka uu qaboojinayo.
+
+USER: meaning in a perfectly smooth container, cold water can get stuck in a liquid state even when the temperature is below freezing.
+ASSISTANT: Taasoo ka dhigan in weel aad u siman biyaha qabow ay dareere ahaan sii ahaan karaan xitaa marka heerkulku ka hooseeyo barafka.
+
+USER: But since the hot water has bubbles to start the freezing process, it freezes like normal.
+ASSISTANT: Laakiin biyaha kulul maadaama ay leeyihiin xumbooyin bilaaba barafoobista waxay u barafoobaan si caadi ah.
+
+USER: But since no one has ever proven a theory, we still don’t have an answer.
+ASSISTANT: Laakiin maadaama aan weli aragti la caddeyn wali jawaab sax ah lama hayo.
+
+USER: The maggot is pulled out of the body and measured to figure out its age.
+ASSISTANT: Gooryaanka meydka laga helay ayaa lasoo saaraa kadibna waa la cabbiraa si da’diisa loo ogaado.
+
+USER: Then scientists calculate the time it took to grow that big, plus how long it takes for an egg to hatch.
+ASSISTANT: Kadib saynisyahannadu waxay xisaabiyaan muddada uu le’egaa ku gaaray iyo waqtiga ukuntu dillaacayso.
+
+USER: Then they add the time it takes a dead body to start attracting flies, working backwards to guess the time of death.
+ASSISTANT: Markaas waxay ku daraan waqtiga ay duqsigu kusoo jiidmaan meydka si gadaal looga qiyaaso waqtiga dhimashada.
+
+USER: But if they find an insect that doesn’t belong where the person was found,
+ASSISTANT: Laakiin haddii ay helaan cayayaan aan deegaankaas ka tirsanayn meesha meydka laga helay,
+
+USER: it could mean they were murdered somewhere else.
+ASSISTANT: waxay ka dhigan kartaa in qofka meel kale lagu dilay.
+
+USER: And the insect entered the corpse before the killer moved the
+ASSISTANT: Cayayaankuna wuxuu galay meydka kahor inta uusan dilaagu meydka meeshaas usoo wareejin.
+
+USER: Her child accidentally fell right into the storm drain is what she told the police.
+ASSISTANT: “Ilmahaygii si kama’ ah ayuu godka biyaha roobka ugu dhacay” ayay booliska u sheegtay.
+
+USER: So, they spent hours sifting through trash desperately looking for any sign of life.
+ASSISTANT: Sidaas darteed saacado badan ayay qashinka ka dhex raadinayeen iyagoo nolol raadis ah.
+
+USER: But, there wasn’t anyone inside.
+ASSISTANT: Laakiin gudaha cidna kuma jirin.
+
+USER: You see, the woman couldn’t stand the trash clogging up the drain.
+ASSISTANT: Haweeneydu waxay ka xanaaqday qashinka xiray marinka biyaha.
+
+USER: And even though people already made complaints about it, nothing changed.
+ASSISTANT: Inkastoo dadku cabashooyin ka gudbiyeen haddana waxba isma beddelin.
+
+USER: So, she made up this fake emergency to tell the police.
+ASSISTANT: Sidaas darteed waxay sameysatay xaaladdan been abuurka ah si ay booliska ugu sheegto.
+
+USER: And after just a few hours of searching, the drain was left totally clean.
+ASSISTANT: Kadib dhowr saac oo baaritaan ah marinkii biyaha gebi ahaanba waa la nadiifiyay.
+
+USER: Pour the gummy bears into a hot pan along with half a cup of water.
+ASSISTANT: Ku shub nacnaca gummy bear digsi kulul adigoo ku daraya nus koob biyo ah.
+
+USER: Then stir them until the bears melt.
+ASSISTANT: Kadib walaaq ilaa nacnacii dhalaalo.
+
+USER: Next, pour the liquid into a bowl and use a cake mixer to whisk them for 10 minutes until they get fluffy.
+ASSISTANT: Markaas dareeraha ku shub baaquli kadibna ku garaac mishiinka keegga 10 daqiiqo ilaa uu jilco oo buurbuuro.
+
+USER: Line a pan with baking paper and sprinkle it with powdered sugar.
+ASSISTANT: Saxan saar warqadda dubista kadibna ku rushee sonkor budo ah.
+
+USER: Then pour the mixture on top.
+ASSISTANT: Kadib isku darka dusha kaga shub.
+
+USER: After 12 hours, cut out a square and toast it over a fire.
+ASSISTANT: 12 saac kadib jar afar gees kadibna dab ku duso.
+
+USER: Then squish it between chocolate and graham crackers before enjoying your gummy bear s’more.
+ASSISTANT: Kadib dhex geli shukulaato iyo buskud kahor intaadan cunin gummy bear s’more-kaaga.
+
+USER: He built a wooden frame in the shape of a Lamborghini, then used a turning wheel to shape pieces of aluminum to the body.
+ASSISTANT: Wuxuu dhisay qaab alwaax ah oo u eg Lamborghini kadibna wuxuu isticmaalay giraangir wareegta si uu aluminium ugu sameeyo jirka gaadhiga.
+
+USER: Next, he welded the chassis and over the course of 17 years, he put all the pieces together, adding an engine, seats, wheels, and lights.
+ASSISTANT: Kadib wuxuu alxamay jirka hoose mudadii 17 sano ahaydna wuxuu isku geeyay dhammaan qaybihii isagoo ku daray matoor kuraas taayiro iyo nalal.
+
+USER: But, since he had used his basement as a workshop, he couldn’t get the car out.
+ASSISTANT: Laakiin maadaama uu qeybta hoose ee guriga u isticmaalay aqoon isweydaarsi wuu soo saari waayay gaadhiga.
+
+USER: So, he got a backhoe to dig a hole down to his basement.
+ASSISTANT: Sidaas darteed wuxuu keenay cagaf qoda si uu god ugu qodo qeybta hoose ee guriga.
+
+USER: Then, he created a ramp before knocking down the wall and pulling his dream car out on a sled.
+ASSISTANT: Kadib wuxuu sameeyay marin jiiran markaas ayuu dumiyay darbiga wuxuuna gaadhigii riyadiisa bannaanka ugu soo jiiday sled.
+
+USER: If you took every single block from the Great Pyramid and stacked them into one giant tower, that tower would be nearly 2,000 Burj Khalifas tall,
+ASSISTANT: Haddii dhammaan dhagxaanta Ahraamta Weyn la isku dul saaro hal munaarad weyn, waxay gaari lahayd ku dhowaad 2,000 Burj Khalifa oo dherer ah.
+
+USER: blowing way past the International Space Station straight into space.
+ASSISTANT: Waxayna si weyn uga gudbi lahayd Xarunta Hawada Caalamiga ah iyadoo hawada sare sii galeysa.
+
+USER: But if we took all those blocks and flattened them into one giant walkout,
+ASSISTANT: Laakiin haddii dhagxaantaas oo dhan la kala bixiyo oo laga dhigo waddo weyn,
+
+USER: it would take the king of boxing, Oleksandr Usyk, over 20 straight days of walking
+ASSISTANT: boqorka feerka Oleksandr Usyk wuxuu u baahan lahaa in ka badan 20 maalmood oo socod joogto ah.
+
+USER: to make his fight with the king of kickboxing, Rico Verhoeven, at the pyramids of Giza.
+ASSISTANT: Si uu ula dagaallamo boqorka kickboxing-ka Rico Verhoeven ee Ahraamyada Giza.
+
+USER: Two champions of different fighting styles facing off the most iconic place on Earth.
+ASSISTANT: Laba horyaal oo leh qaabab dagaal oo kala duwan ayaa ku kulmaya mid ka mid ah meelaha ugu caansan dunida.
+
+USER: And you can watch this epic event on Saturday, May 23rd, exclusively on DAZN.
+ASSISTANT: Waxaad daawan kartaa dhacdadan weyn Sabtida May 23-keeda si gaar ahna uga baxaysa  DAZN
+
+USER: The kitten disappeared from the house and after months of searching her owners gave up all hope.
+ASSISTANT: Bisaddii yarayd ayaa guriga ka luntay kadib bilo badan oo la raadinayay milkiilayaasheediina rajadii way ka quusteen.
+
+USER: But 13 years later a stray cat showed up at a vet clinic over 100 miles away.
+ASSISTANT: Laakiin 13 sano kadib bisad waddo joog ah ayaa kasoo muuqatay rugta xoolaha oo ka fogayd in ka badan 100 mayl.
+
+USER: After scanning her microchip for a phone number they called her owners.
+ASSISTANT: Kadib markii microchip-keeda laga helay lambarka telefoonka waxay waceen milkiilayaasheedii.
+
+USER: When they arrived the cat immediately rubbed up against their legs and they realized she was the kitten they had lost all those years ago.
+ASSISTANT: Markay yimaadeen bisaddii markiiba lugahooda ayay isku xoqday waxayna garteen inay ahayd bisaddii yarayd ee sannadaha badan ka hor ka luntay.
+
+USER: They finally took her home but she was soon diagnosed with a deadly cancer
+ASSISTANT: Ugu dambeyn guriga ayay geeyeen laakiin wax yar kadib waxaa laga helay kansar halis ah.
+
+USER: and even though it took her years to find her way back she spent her final days in the arms of the family that never forgot her.
+ASSISTANT: Inkastoo ay sanado ku qaadatay inay dib u hesho jidkii guriga haddana maalmaheedii ugu dambeeyay waxay la qaadatay qoyskii aan waligood illoobin.
+
+USER: After you choose a picture, the researcher flips it down and pushes forward a different photo hidden behind it while sliding the one that you actually chose into his lap.
+ASSISTANT: Kadib markaad sawir doorato, cilmi baaruhu hoos ayuu u rogayaa kadibna sawir kale oo qarsoon ayuu kusoo riixayaa halka kii aad dhab ahaan dooratay uu dhabta u gelinayo.
+
+USER: And when he shows you the new one, you won’t notice the switch and you might even make up reasons for why you like it.
+ASSISTANT: Marka uu kuu muujiyo sawirka cusub ma dareemi doontid isbeddelka xitaa waxaad sheegi kartaa sabab aad u jeceshahay.
+
+USER: You see, when the photo doesn’t match what you remember, your brain adjusts your memory to make things more consistent,
+ASSISTANT: Marka sawirku uusan la mid noqon wixii aad xasuusatay maskaxdaadu waxay beddeshaa xasuusta si wax walba isu waafaqaan.
+
+USER: which makes you believe you picked the other photo all along.
+ASSISTANT: Taas ayaana kaa dhigaysa inaad aaminto inaad sawirka kale dooratay tan iyo bilowgii.
+
+USER: He hammered the nail into the fence because every time he lost his temper, his father made him add another nail.
+ASSISTANT: Wuxuu musbaar ku garaacay dayrka sababtoo ah mar kasta oo uu xanaaqo aabbihii wuxuu ku amri jiray inuu musbaar kale ku daro.
+
+USER: After getting into too many fights at school, the fence started filling up.
+ASSISTANT: Kadib dagaallo badan oo uu dugsiga ku galay dayrkii wuxuu bilaabay inuu ka buuxsamo musbaarro.
+
+USER: But this was super annoying to do, so the boy tried to stay calm.
+ASSISTANT: Laakiin arrintani aad ayay u dhib badnayd sidaas darteed wiilkii wuxuu isku dayay inuu is dejiyo.
+
+USER: And soon enough, he stopped getting into fights.
+ASSISTANT: Wax yar kadibna wuu joojiyay dagaalladii.
+
+USER: His father then told him that every time he controlled his temper, he was to pull a nail out.
+ASSISTANT: Markaas aabbihii wuxuu ku yiri mar kasta oo uu xanaaqiisa xakameeyo inuu hal musbaar bixiyo.
+
+USER: And over time, all the nails were gone.
+ASSISTANT: Muddo kadibna dhammaan musbaarradii waa laga saaray.
+
+USER: But the boy noticed how the holes were still visible.
+ASSISTANT: Laakiin wiilkii wuxuu arkay in godadkii wali muuqdaan.
+
+USER: His father explained that anger leaves marks the same way.
+ASSISTANT: Aabbihii wuxuu u sheegay in xanaaquna raad uga tago sidaas oo kale.
+
+USER: You can apologize, but the damage might always be there.
+ASSISTANT: Waad raalli gelin kartaa laakiin dhaawicii mararka qaar wuu sii jiri karaa.
+
+USER: Fill the cup with muddy water and put in one end of a paper towel with the other end in an empty cup.
+ASSISTANT: Koobka ku buuxi biyo dhoobo leh kadibna geli hal daraf oo warqad ah halka darafka kale uu ku jiro koob madhan.
+
+USER: The paper is made of tiny fibers with small gaps in between and as the water molecules stick to the fibers, they’re pulled into these gaps.
+ASSISTANT: Warqaddu waxay ka samaysan tahay fiilooyin yaryar oo leh daloolo yaryar biyuhuna markay ku dhegaan fiilooyinka waxay u gudbaan dalooladaas.
+
+USER: Each new molecule pushes the others upward,
+ASSISTANT: Qayb kasta oo cusub oo biyo ah waxay kor u riixdaa kuwii kale.
+
+USER: but since most of the dirt particles are too big to fit through the gaps in the paper, they get left behind.
+ASSISTANT: Laakiin inta badan wasakhdu way ka weyn tahay daloolada warqadda sidaas darteed way harayaan.
+
+USER: And after 2 hours, you’ll have half a cup of water.
+ASSISTANT: Laba saac kadib waxaad heli doontaa nus koob biyo ah.
+
+USER: Repeat the process until the water runs clear, ready for boiling to remove any bacteria.
+ASSISTANT: Ku celi habkan ilaa biyuhu ka caddaadaan kadibna karkari si bakteeriyada looga dilo.
+
+USER: They dumped the rocks into the burning furnace and melted them down for over two days until they had man-made lava.
+ASSISTANT: Waxay dhagxaantii ku shubeen foornada dabka ah waxayna dhalaaliyeen in ka badan laba maalmood ilaa ay heleen lava dad sameeyay.
+
+USER: Then they stuck a piece of steak directly on top letting the flames climb on top of the meat.
+ASSISTANT: Kadib waxay hilib steak ah si toos ah dusha uga saareen iyagoo ololka u oggolaanaya inuu hilibka dushiisa gaaro.
+
+USER: The intense heat instantly charred the outside while keeping the inside extra juicy.
+ASSISTANT: Kulaylka daran ayaa markiiba gubay bannaanka halka gudaha uu casiir badan ku sii jiray.
+
+USER: After a few seconds they removed it and cut it open to get a perfectly cooked lava steak.
+ASSISTANT: Dhowr ilbiriqsi kadib way ka qaadeen markaas ayay jareen si ay u helaan lava steak si fiican u bisil.
+
+USER: If you wake up at night with a full bladder and empty it too quickly, it can fire up a nerve connected to your heart.
+ASSISTANT: Haddii aad habeenkii ku kacdo kaadi badan kadibna si degdeg ah isku faaruqiso, waxay kicin kartaa neerfo la xiriirta wadnahaaga.
+
+USER: And in some people, this nerve sends a signal straight to the heart, slowing it down and widening the blood vessels.
+ASSISTANT: Dadka qaar neerfadan waxay wadnaha u dirtaa fariin hoos u dhigta garaaciisa isla markaana ballaarisa xididdada dhiigga.
+
+USER: This could cause your blood pressure to drop, so less blood flows to your brain,
+ASSISTANT: Taasi waxay sababi kartaa in cadaadiska dhiigga hoos u dhaco sidaas darteed dhiig yar ayaa maskaxda gaara.
+
+USER: making you feel dizzy until you faint right there in the bathroom.
+ASSISTANT: Waxayna kaa dhigi kartaa inaad wareerto ilaa aad suuxdo adigoo musqusha jooga.
+
+USER: The tiny city was placed on the metal sheet that rested on top of a rolling conveyor belt.
+ASSISTANT: Magaaladii yarayd waxaa la saaray bir dusha uga taagnayd suun wareegaya.
+
+USER: When it caught on the belt, it was dragged down, bending further and further as it built up tons of energy.
+ASSISTANT: Markii ay suunka ku dhegtay hoos ayaa loo jiiday iyadoo sii qalloocmaysa isla markaana tamar badan ururinaysa.
+
+USER: And when the sheet suddenly snapped free, the energy released at once, shaking the tiny city,
+ASSISTANT: Markii birtu si lama filaan ah uga fakaday tamartii oo dhan hal mar ayay sii daysay taasoo ruxday magaaladii yarayd.
+
+USER: showing what happens when a tectonic plate slides underneath another one.
+ASSISTANT: Taasina waxay muujinaysaa waxa dhaca marka saxan dhuleed mid kale hoostiisa galo.
+
+USER: If it builds up enough friction, the sudden burst can rupture the ground, destroying entire cities in minutes.
+ASSISTANT: Haddii isku dhacaasi bato qaraxa degdegga ah wuxuu dillaacin karaa dhulka isagoo daqiiqado gudahood burburin kara magaalooyin dhan.
+
+USER: He flashed a fake ID to the agent before walking straight into the cockpit and asking to sit in the jump seat.
+ASSISTANT: Wuxuu tusay aqoonsi been abuur ah shaqaalihii kadibna si toos ah ayuu u galay qolka duuliyaha isagoo codsaday inuu fariisto kursiga jump seat-ka.
+
+USER: You see, this jump seat is usually reserved for offduty pilots who need to catch flights at other airports, letting them travel for free.
+ASSISTANT: Kursigan jump seat-ka badanaa waxaa loo qoondeeyaa duuliyayaasha shaqada ka maqan ee u baahan inay duulimaadyo kale ku raacaan si bilaash ah.
+
+USER: Now, he used to be a flight attendant.
+ASSISTANT: Ninkani hore wuxuu u ahaa shaqaale diyaaradeed.
+
+USER: So, when he went through security with a fake ID, the system cleared him as an employee.
+ASSISTANT: Sidaas darteed markii uu amniga marayay aqoonsiga been abuurka ah nidaamku wuxuu u aqoonsaday shaqaale.
+
+USER: He tricked the airlines for years, boarding hundreds of free flights, but they eventually found out and he was arrested.
+ASSISTANT: Sanado badan ayuu shirkadaha diyaaradaha khiyaamaynayay isagoo raacay boqolaal duulimaad oo bilaash ah laakiin ugu dambeyn waa la ogaaday waana la xiray.
+
+USER: Your goal is to walk through this massive wheat field and find the biggest stalk of wheat.
+ASSISTANT: Hadafkaagu waa inaad dhex marto beertan weyn ee sarreenka ah oo aad hesho sarreenka ugu weyn.
+
+USER: But, there are two rules. You can only walk forward and you can only make one choice.
+ASSISTANT: Laakiin waxaa jira labo sharci waxaad kaliya hore u socon kartaa hal doorasho oo keliya ayaadna sameyn kartaa.
+
+USER: In the first scenario, you see a stalk almost immediately. It looks pretty big, so you grab it.
+ASSISTANT: Xaaladda koowaad waxaad markiiba aragtaa sarreen weyn markaas ayaad qaadataa.
+
+USER: But, as you keep walking, you start seeing bigger and bigger ones and you realize you chose too early.
+ASSISTANT: Laakiin markaad sii socoto waxaad arkaysaa kuwo ka sii waaweyn waxaadna garanaysaa inaad si degdeg ah u dooratay.
+
+USER: In the second scenario, you see tall stalks, but you keep walking past them convinced a bigger one is ahead.
+ASSISTANT: Xaaladda labaad waxaad arkaysaa sarreen dhaadheer laakiin waad dhaafaysaa adigoo aaminsan in mid ka weyn hore yaallo.
+
+USER: But, by the time you reach the end of the field, the big stalks are gone and you have to choose a small one.
+ASSISTANT: Laakiin markaad dhamaadka gaarto kuwii waaweynaa way dhammaadeen waxaadna ku khasbanaataa mid yar.
+
+USER: In the third scenario, you use the first part of the walk to study the stalks and learn what a good one actually looks like.
+ASSISTANT: Xaaladda saddexaad qaybta hore ee socodka waxaad u isticmaashaa inaad barato sarreenka oo aad fahamto midka fiican.
+
+USER: Then, later, before the field runs out, you choose a strong one based on what you know.
+ASSISTANT: Kadib inta aysan beertu dhammaan waxaad doorataa mid fiican adigoo adeegsanaya wixii aad baratay.
+
+USER: Now, you will walk past some that are bigger, but yours is good enough
+ASSISTANT: Haa waxaad dhaafi doontaa qaar ka waaweyn laakiin kaaga wuu ku filan yahay.
+
+USER: because the goal isn’t finding the perfect option, it’s just knowing when to choose and when to commit.
+ASSISTANT: Sababtoo ah hadafku ma aha helitaanka kan ugu qumman ee waa ogaanshaha waqtiga saxda ah ee la dooranayo laguna go’aan qaadanayo.
+
+USER: If enemies raided the town, guards would light a giant bonfire and watchmen miles away would see it, lighting their own fire and passing the message down the line.
+ASSISTANT: Haddii cadowgu magaalada soo weeraro waardiyayaashu waxay shidi jireen dab weyn waardiyayaal maylal fog joogayna way arki jireen kadibna dabkooda ayay shidi jireen si fariinta loo sii gudbiyo.
+
+USER: Now, each watchtower had a synchronized clock and the first tower would wait until a specific time to signal a raid.
+ASSISTANT: Munaarad kasta oo waardiye waxay lahayd saacad isku waqti ah munaaraddii ugu horraysayna waxay sugi jirtay saacad gaar ah si ay weerar u sheegto.
+
+USER: And if a fire started, they would wait until this hour to signal.
+ASSISTANT: Haddii dab bilowdana waxay sugi jireen saacaddaas si ay u diraan calaamadda.
+
+USER: A different hour meant war had broken out.
+ASSISTANT: Saacad kale oo duwan waxay ka dhignayd in dagaal qarxay.
+
+USER: By using these perfectly timed fires, they could pass along a specific message until it reached the capital over 400 miles away.
+ASSISTANT: Iyagoo adeegsanaya dabab si fiican loo waafajiyay ayay fariin gaar ah ugu gudbin jireen ilaa ay gaarto caasimad ka fog in ka badan 400 mayl.
+
+USER: They set off firecrackers in the streets, scaring the sparrows away from landing.
+ASSISTANT: Waxay waddooyinka ku qarxinayeen rash si ay uga baqiyaan shimbiraha in ay soo fadhiistaan.
+
+USER: You see, the government thought that the sparrows were eating too much grain,
+ASSISTANT: Dowladda waxay u malaysay in shimbiraha ay cunayaan badar aad u badan.
+
+USER: so they told the citizens to destroy the nests and make loud noises, keeping the birds flying until they dropped dead from exhaustion and shooting the rest.
+ASSISTANT: Sidaas darteed waxay dadka ku amreen inay buulasha burburiyaan oo ay buuq sameeyaan si shimbiruhu u sii duulaan ilaa ay daal ka dhacaan ama la toogto inta kale.
+
+USER: But, the sparrows also ate harmful bugs, and without them, swarms of locusts started to appear.
+ASSISTANT: Laakiin shimbiruhu waxay sidoo kale cuni jireen cayayaanka waxyeellada leh, markay maqan yihiinna ayax badan ayaa bilaabay inuu soo baxo.
+
+USER: They destroyed countless crop fields, leaving almost nothing behind.
+ASSISTANT: Waxay burburiyeen beero badan oo dalag ah ilaa wax yar oo kaliya ay ka hadheen.
+
+USER: And even though the government flew in sparrows from other countries, millions of people already starved to death.
+ASSISTANT: Inkastoo dowladda ay shimbiro ka keentay dalal kale haddana malaayiin dad ah ayaa hore u gaajooday oo u dhintay.
+
+USER: The rain fell onto the T-Rex as it roared at the press of a button,
+ASSISTANT: Roobkii ayaa ku da'ayay dinasoorka markuu ciyay markii batoonka la riixay,
+USER: but the water leaked through the foam skin and added extra weight, making its movements jittery and sometimes it even moved by itself.
+ASSISTANT: laakiin biyaha ayaa ka dhex dusay maqaarkiisa isbuunyada ah oo miisaan ku kordhiyay, taasi oo ka dhigtay inuu gariiro mararka qaarna iska dhaqaaqo kaligiis.
+USER: After each shoot, crew members spent all night drying it with towels and blow dryers, but it became super heavy and fragile.
+ASSISTANT: Duubista markay dhammaato, shaqaalaha ayaa habeenkii oo dhan ku qaadan jiray inay ku qallajiyaan Shukumaan iyo qallajiyaha timaha, laakiin aad ayuu u cuslaaday una nuglaaday.
+USER: And because it was so big, they rebuilt and shifted the set around it dozens of times, creating the illusion that the T-Rex was walking around without actually moving it.
+ASSISTANT: Maadaama uu aad u weynaa, waxay goobta filimka qaabkeeda dib u dhisi jireen oo agagaarkiisa beddeli jireen marar badan, si ay ula mid noqoto in dinasoorku soconayo isagoo meelna u dhaqaaqin.
+USER: When sun hits the termite mound, the heat gets stored in the walls, shielding the inside and keeping it cool.
+ASSISTANT: Marka qorraxdu ku dhacdo dundumada aboorka, kulaylka waxaa lagu kaydiyaa gidaarada, taasi oo difaacda gudaha kana dhigta meel qabow.
+USER: And at night, the hot air rises and escapes through the tall shaft, while small tunnels suck in cool air from underground.
+ASSISTANT: Habeenkiina, hawada kulul ayaa kor u kacda oo ka baxda dhuumaha dhaadheer, halka godad yaryar ay hawada qabow ka soo jiidaan dhulka hoostiisa.
+USER: An architect saw this and made an office building with thick concrete walls, which absorbed the heat just like the termite mound.
+ASSISTANT: Injineer dhismaha qaabeeya ayaa arkay arrintan, wuxuuna dhisay dhisme xafiisyo ah oo leh gidaaro shamiito ah oo dhumuc weyn, kuwaas oo nuugaya kulaylka siday dundumada aboorka oo kale.
+USER: Then it released it at night through a series of chimneys based on the shafts that termites made.
+ASSISTANT: Ka dibna wuxuu kulaylkii sii daayaa habeenkii isagoo marsiinaya dhuumaha qiiqa baxsha oo loo ekeysiiyay kuwa aboorku dhisto.
+USER: At the same time, fans sucked in the cool air from outside before blowing it through vents in the floors, which saved a fortune on air conditioning.
+ASSISTANT: Sidoo kalena, marawaxado ayaa hawada qabow ka soo jiidayay dibadda ka hor intaan lagu dhex afuufin godadka dhulka ku yaalla, taasi oo lacag badan ka badbaadisay qaboojiyaha korontada.
+USER: If you hammer a nail into the edge of a plank, the sharp tip slides in between the fibers while the wider body forces them apart.
+ASSISTANT: Markaad musbaar ku garaacdo darafka loox, caarada fiiqan waxay dhex gashaa fiilooyinka halka jirka ballaran uu kala fageeyo.
+USER: This can split the wood as it goes down.
+ASSISTANT: Tani waxay keeni kartaa in looxu dilaaco markay hoos u sii dhacayso.
+USER: To solve this, flip the nail upside down and use a hammer to flatten the tip completely.
+ASSISTANT: Si aad taas uga badbaaddo, musbaarka gaddoomi oo dubbe ku garaac caarada si ay u fidsanto gebi ahaanba.
+USER: When you try to use it, the blunt tip is too wide to slide through, so it cuts straight into the wood instead, which breaks the fibers.
+ASSISTANT: Markaad isticmaalayso, caarada dhalfoobtay aad ayay u ballarantahay inay si fudud u dhex marto, marka waxay toos u goysaa fiilooyinka looxka.
+USER: As it slides out the other side with the wood unbroken.
+ASSISTANT: Sidaasna wuxuu ku baxayaa dhanka kale isagoo looxu dilaacin oo nabad qaba.
+USER: The students were given brand-new laptops to use at school and at home,
+ASSISTANT: Ardayda waxaa la siiyay laptop-yo cusub oo ay ku isticmaalaan dugsiga iyo guriga,
+USER: but soon after one student was called to the office and accused of using drugs.
+ASSISTANT: laakiin wax yar ka dib hal arday ayaa xafiiska loogu yeeray oo lagu eedeeyay inuu maandooriye isticmaalay.
+USER: They showed a photo of him holding what was actually just candy taken from inside his bedroom.
+ASSISTANT: Waxay tuseen sawirkiisa isagoo haysta wax dhab ahaantii nacnac kaliya ahaa oo qolkiisa hurdada laga dhex qaaday.
+USER: You see, the laptops all contained a hidden app that took photos and screenshots from the webcams,
+ASSISTANT: Waad aragtay, laptop-yada oo dhan waxaa ku jiray app qarsoon oo sawirro iyo muuqalka shaashadda ka qaadayay kaamirooyinka,
+USER: meaning the school could secretly see their private messages and even take photos of them sleeping.
+ASSISTANT: taasi oo ka dhigan in dugsigu si qarsoodi ah u arki karay fariimahooda gaarka ah xataa sawirro ka qaadi karay iyagoo hurda.
+USER: Their families filed a complaint, and after the school paid them around $600,000, the app was finally shut down for good.
+ASSISTANT: Qoysaskooda ayaa dacwad gudbiyay, markii uu dugsigu bixiyay qiyaastii lix boqol oo kun oo doollar, app-kiina ugu dambayn waa la xiray gabi ahaanba.
+USER: If you were forced to eat a banana, then another, and another, after around 60, your stomach would rupture.
+ASSISTANT: Haddii lagugu khasbo inaad cunto moos, ka dibna mid kale, iyo mid kale, marka ay gaaraan ilaa lixdan xabbo calooshaada ayaa dilaaci lahayd.
+USER: But if you somehow kept them down, some people think your hair would fall out while your skin turned red until you finally died.
+ASSISTANT: Laakiin haddii aad si uun caloosha ugu hayn karto, dadka qaar waxay u malaynayaan inay timahaagu ragi lahaayeen maqaarkaaguna gaduudan lahaa ilaa aad ka dhimato.
+USER: That's because bananas are actually radioactive.
+ASSISTANT: Taasna waxaa u sabab ah in moosku dhab ahaantii leeyahay shucaac.
+USER: But one banana gives you about the same radiation as living near a nuclear plant for a year.
+ASSISTANT: Laakiin hal moos wuxuu ku siinayaa shucaac la mid ah kan qofka degan wershedda niyukleerka agteeda muddo hal sano ah.
+USER: Even Chernobyl workers were exposed to over a million bananas worth, and most survived.
+ASSISTANT: Xataa shaqaalihii Chernobyl waxay la kulmeen shucaac ka badan kan hal milyan oo moos ah, intooda badanna way ka badbaadeen.
+USER: So, to actually die from banana radiation, you would need to eat 35 million bananas at once.
+ASSISTANT: Sidaas darteed, si aad dhab ahaantii ugu dhimato shucaaca mooska, waxaad u baahan lahayd inaad hal mar wada cunto soddon iyo shan milyan oo moos ah.
+USER: But at that point, you wouldn't actually die from radiation, you would die from being the most committed banana eater in human history.
+ASSISTANT: Laakiin marka heerkaas la joogo, dhab ahaantii ugu dhiman maysid shucaac, waxaad u dhiman lahayd inaad tahay qofka taariikhda aadanaha ugu moos cunista badnaa.
+USER: In Capture the Flag, one team is facing one direction and the other team is facing the opposite direction.
+ASSISTANT: Ciyaarta calanka, hal koox waxay u jeedsataa hal dhinac, kooxda kalena dhanka kasoo horjeeda.
+USER: And that's typically the only way to tell the teams apart in an informal game.
+ASSISTANT: Caadiyanna taasi waa jidka kaliya ee kooxaha lagu kala garto marka si iska caadi ah loo ciyaarayo.
+USER: So, all you need to do is turn around, face toward your own side, and start slowly maneuvering backward into enemy territory.
+ASSISTANT: Marka, waxa kaliya ee aad u baahantahay waa inaad soo jeedsato, oo aad eegto dhanka kooxdaada, ka dibna aad si tartiib ah gadaal-gadaal ugu dhex gasho dhulka kooxda kale.
+USER: Now, if it's at dusk and there are a decent amount of kids playing from their perspective, you might look like one of them because most of the time they're really just checking which way you're facing.
+ASSISTANT: Hadda, haddii ay tahay makhribkii oo ay carruur badan ciyaarayaan, xaggooda waxaad uga muuqan kartaa qof kooxdooda ah sababtoo ah inta badan waxay kaliya eegayaan dhanka aad u jeeddo.
+USER: To really sell it, capture one of your own teammates who's in on the plan.
+ASSISTANT: Si aad rumeysasho uga hesho, qabo mid ka mid ah saaxiibadaada kooxda ee qorshaha kula ogaa.
+USER: Now you've built trust.
+ASSISTANT: Hadda waxaad abuurtay kalsooni.
+USER: As you get closer to the flag, start mapping a clear path back to your side, but don't run yet.
+ASSISTANT: Markaad u dhowaato calanka, billow inaad xariiqato jidka aad ugu soo laaban lahayd dhankaaga, laakiin weli ha ordin.
+USER: Just walk forward like you're still on defense.
+ASSISTANT: Iska soco kaliya adoo horey u socda sidii qof weli difaac ku jira oo kale.
+USER: If we took out all of the salt from every ocean on Earth and compacted it into one giant cube,
+ASSISTANT: Haddii aan ka soo saarno dhammaan cusbada badaha dunida oo dhan, kuna soo koobno hal kuub oo weyn,
+USER: it would stretch over 150 miles, bigger than the state of New Jersey.
+ASSISTANT: wuxuu dhererkiisu dhaafayaa boqol iyo konton mayl, isagoo ka weyn gobolka New Jersey.
+USER: And if every person on Earth licked as much as they could every day, it would take around a billion years to finish.
+ASSISTANT: Haddii qof kasta oo dhulka jooga uu leefo intii awoodiisa ah maalin kasta, waxay qaadan lahayd qiyaastii hal bilyan oo sano in lagu dhammeeyo.
+USER: But without salt, ecosystems would collapse while entire species would die
+ASSISTANT: Laakiin haddii aanay cusbo jirin, nidaamyada deegaanka ayaa dumi lahaa iyadoo noocyo badan oo noolaha ahna ay dhiman lahaayeen
+USER: and the water wouldn't circulate heat normally, meaning cold places would freeze while hot places would get hotter, causing massive storms that would slam into the coasts.
+ASSISTANT: biyuhuna uma wareejin lahaayeen kulaylka si caadi ah, taasi oo ka dhigan in meelaha qabow ay barafaysan lahaayeen meelaha kululna ay sii kululaan lahaayeen, iyadoo ay ka dhalanayaan duufaano waaweyn oo ku dhaca xeebaha.
+USER: Now, click here to see more things we should never try.
+ASSISTANT: Hadda, halkaan taabo si aad u aragto waxyaabo kale oo ay tahay inaynaan marnaba isku dayin.
+USER: If the zombies are approaching, quickly get a treadmill and line up 500 of them around your house.
+ASSISTANT: Haddii ay zombiyadu soo dhowaanayaan, si degdeg ah u soo qaado mashiinka orodka oo shan boqol oo xabbo gurigaaga ku wareeji.
+USER: Then crank them to full speed, and every zombie that steps on gets launched backwards.
+ASSISTANT: Ka dibna xawaaraha ugu dambeeya ku shid, zombi kasta oo ku istaaggana dib ayaa loo tuurayaa.
+USER: For days, it works, but then one rips the handles and manages a few running steps before flying back.
+ASSISTANT: Maalmo dhowr ah jidkaas waa uu shaqaynayaa, laakiin mid ka mid ah ayaa dhuftay biraha lagu qabsado oo dhowr tillaabo orday ka hor intaan gadaal loogu tuurin.
+USER: The others notice and copy it.
+ASSISTANT: Kuwa kalena way dareemayaan oo way ku daydaan.
+USER: They practice again and again until they're running fast enough to stay upright.
+ASSISTANT: Way ku celceliyaan marar badan ilaa ay u ordaan si xawaare leh oo ay u istaagi karaan iyagoo aan dhicin.
+USER: And then they finally break through, smashing their way inside.
+ASSISTANT: Ka dibna ugu dambayn way soo dhex jabinayaan, iyagoo gidaarada iyo albaabada soo dumiya si ay gudaha u soo galaan.
+USER: Now you've just conditioned zombies with elite cardio, officially dooming the entire human race.
+ASSISTANT: Hadda waxaad zombiyadii u tababartay orod heer sare ah, taasi oo si rasmi ah u soo afjartay nolosha aadanaha oo dhan.
+USER: Click here for more terrible ideas.
+ASSISTANT: Halkaan taabo si aad u aragto fikrado kale oo ka sii daran.
+USER: After he died, his bones were taken and wired into a skeleton, and his daughter took it on a road trip.
+ASSISTANT: Markuu dhintay ka dib, lafihiisii ayaa la soo qaatay oo la isku xiray si ay qalfoof u noqdaan, gabadhiisiina safar dheer ayay ku kaxaysay.
+USER: She brought her father's skeleton kayaking and visited the Lincoln Memorial.
+ASSISTANT: Waxay qalfoofkii aabbaheed u kaxaysay ciyaarta doomaha yar yar, waxayna soo booqatay goobta Lincoln Memorial.
+USER: They posed for pictures in New York, and she even took it on a plane ride, something they never did when her father was alive.
+ASSISTANT: Waxay sawirro ku soo galeen New York, xataa diyaarad ayay soo raacisay, taasi oo ah wax aysan waligood samayn markii uu aabbaheed noolaa.
+USER: And at the end of their adventure, she donated his skeleton to his old high school, just like he wanted.
+ASSISTANT: Markii uu safarkoodii xiisaha lahaa dhammaadayna, waxay qalfoofkii hadiyad u siisay dugsigiisii sare ee hore, sidii uu isaguba rabay.
+USER: The pellets are stacked in the tubes, which are loaded into a core with dozens of others.
+ASSISTANT: Xabbadaha yaryar waxaa lagu guray dhuumaha, kuwaas oo lagu ridayo mashiinka dhexdiisa iyadoo ay la socdaan dhowr darsin oo kale.
+USER: Now, the tubes are surrounded by water, and the pellets inside are actually made of uranium.
+ASSISTANT: Hadda, dhuumaha waxaa ku wareegsan biyo, xabbadaha yaryar ee dhexda ku jiranna dhab ahaantii waxaa laga sameeyay uranium.
+USER: When a flying particle hits a uranium atom inside the tube, it splits it apart, releasing more tiny particles.
+ASSISTANT: Marka qayb yar oo duulaysa ay ku dhacdo atomka uranium-ka ee dhuumaha dhexdiisa ku jira, waxay u kala jebisaa dhowr qaybood, iyadoo sii deynaysa qaybo kale oo aad u yaryar.
+USER: These hit other atoms and shoot out even more particles.
+ASSISTANT: Kuwani waxay ku dhacaan atomyo kale waxayna soo tuuraan qaybo kale oo intaas ka sii badan.
+USER: This causes the rods to heat up, which causes the water to boil,
+ASSISTANT: Tani waxay keenaysaa inay biraha dhuumaha ahi kululaadaan, taasi oo biyaha ka dhigaysa inay karkaraan,
+USER: and this causes the release of steam, which turns a turbine connected to a generator, which produces electricity for your home.
+ASSISTANT: markaasna waxaa soo baxa uumi wareejiya marawaxad ku xiran matoor, kaasi oo gurigaaga u soo saara koronto.
+USER: He ate one spicy chip and fainted.
+ASSISTANT: Wuxuu cunay hal xabbo oo chips basbaas badan leh, ka dibna wuu miyir doorsoomay.
+USER: You see, this challenge dared people to eat a chip coated in two of the world's hottest peppers and see how long they could wait before drinking.
+ASSISTANT: Waad aragtay, tartankan wuxuu dadka ku dhiiragelinayay inay cunaan chips lagu dhuftay labo ka mid ah basbaaska ugu gubidda badan dunida, ka dibna ay eegaan inta ay u dulqaadan karaan iyagoon biyo cabbin.
+USER: He woke up but passed out again a few hours later and ended up dying in the hospital.
+ASSISTANT: Wuu soo miyirsaday laakiin dhowr saacadood ka dib ayuu haddana miyir doorsoomay, wuxuuna ugu dambayn ku dhintay isbitaalka.
+USER: You see, he had a condition where one of his heart's main arteries ran through the muscle instead of on top of it.
+ASSISTANT: Waxaa jirtay inuu la noolaa xaalad caafimaad oo ah in mid ka mid ah xididdada dhiigga ee wadnihiisa uu dhex marayay muruqa halkii uu korka ka mari lahaa.
+USER: So, when the extreme spice of the chip made his heart beat extra hard, it squeezed that artery shut and stopped his heart from beating.
+ASSISTANT: Sidaas darteed, markii basbaaskii waalida ahaa ee chips-ka uu wadnihiisa ka dhigay inuu aad u garaacmo, wuxuu isku tuujiyay xididkaas, wuxuuna joojiyay garaacii wadnaha.
+USER: All for a viral dare.
+ASSISTANT: Waxaas oo dhanna waxay u dhaceen tartankaas internet-ka ku baahay dartiis.
+USER: If your house is about to catch fire, your dog could have enough pee to put it out before it grows.
+ASSISTANT: Haddii gurigaagu uu rabo inuu gubto, eygaaga waxaa ku jiri karta kaadi ku filan inuu ku bakhtiiyo dabka ka hor intaanay weynaan.
+USER: But to put out a wildfire, firefighters need thousands of gallons of water, and dogs only produce about a third of a gallon of pee each day.
+ASSISTANT: Laakiin si dabka weyn ee duurka loo bakhtiiyo, damdemiyayaashu waxay u baahan yihiin kumanaan galloon oo biyo ah, eeyaduna waxay maalinkii soo saaraan kaliya qiyaastii saddex meelood oo meel galloonka kaadi ah.
+USER: Meaning, you would need the pee of around 30 million large dogs.
+ASSISTANT: Taasi waxay ka dhigantahay inaad u baahantahay kaadida ilaa soddon milyan oo eey oo waaweyn ah.
+USER: But since the fires are so spread out and hot, the dogs couldn't get too close.
+ASSISTANT: Laakiin maadaama uu dabku aad u fidsanyahay uuna aad u kululyahay, eeyadu uma dhowaan karaan habaynaatee.
+USER: Instead, you would have to load them onto thousands of planes, and they would have to pee at the exact same time to fully put out the fire.
+ASSISTANT: Taas baddalkeeda, waxaad u baahan lahayd inaad ku raddo kumanaan diyaaradood, waana inay isku mar wada kaadiyaan si dabka loo damiyo gebi ahaanba.
+USER: She posted her party on Facebook and invited her friends.
+ASSISTANT: Waxay xafladdeeda soo dhigtay Facebook waxayna casuuntay saaxiibbadeed.
+USER: But since the event was set to public, her friends invited their friends who invited their friends and soon it went viral and copycat events popped up on Facebook with thousands of people on the guest list.
+ASSISTANT: Laakiin maadaama casuumaadda laga dhigay mid furan, saaxiibbadeed ayaa u yeeray saaxiibbadood kuwanna kuwa kale ayay u sheegeen, markaasay durbadiiba suuqa gashay, waxaana Facebook-ga ku soo batay xaflado la mid ah oo ay kumanaan qof iska qoreen.
+USER: Now, police heard about it so they evacuated the girl and her family and set up barriers on her street.
+ASSISTANT: Markay boolisku warka ngheleen, waxay goobta ka kaxeeyeen gabadhii iyo qoyskeeda, jidkeediina xayndaab ayay ku xireen.
+USER: Despite this, thousands of teenagers filled the quiet town, drinking and yelling at strangers.
+ASSISTANT: Inkastoo taasi jirtay, kumanaan dhalinyaro ah ayaa soo buuxiyay magaaladii deganayd, iyagoo cabbaya dadka jidka marayana ku qaylinaya.
+USER: And when police tried to control them, they threw rocks and bottles before setting cars on fire and smashing windows, leaving dozens injured and many arrested.
+ASSISTANT: Markay boolisku isku dayeen inay xakameeyaan, waxay ku tuureen dhagaxaan iyo dhalooyin, ka dibna gawaari ayay gubeen daaqadahana way jebiyeen, taasi oo keentay inay tobaneeyo qof ku dhaawacmaan qaar badanna la xiro.
+USER: All because of a Facebook
+ASSISTANT: Waxaas oo dhanna waxay u dhaceen kaliya barta Facebook dartiis.
+USER: Peel off the tough outer skin and soak the gourds in boiling water to clean them.
+ASSISTANT: Fiiq maqaarka adag ee dusha sare, ka dibna bocorka ku dhex rid biyo karkaray si aad u nadiifiso.
+USER: Then use a knife to slice the thick core into pieces and you'll get a natural reusable sponge.
+ASSISTANT: Ka dibna mindi u isticmaal inaad dhexda dhumucda weyn u jarjarto cadcad, markaas waxaad helaysaa isbuunyo dabiici ah oo marar badan la isticmaali karo.
+USER: And if you run out, just plant some more seeds.
+ASSISTANT: Haddii ay kaa dhammaatana, iniinyo kale sii abuur kaliya.
+USER: And once they're fully grown, let them dry on the vine for a few days before pulling them off.
+ASSISTANT: Markay si buuxda u koraan, u daa inay geedka ku engegaan dhowr maalmood ka hor intaanad soo gooyin.
+USER: This allows the skin to completely dry out and pull away from the fibers inside.
+ASSISTANT: Tani waxay saamaxaysaa in maqaarku si fiican u engego oo uu ka furmo fiilooyinka dhexda ku jira.
+USER: The band continued to play even as the Titanic was sinking.
+ASSISTANT: Kooxdii muusigga waxay sii wadeen inay garaacaan xataa iyadoo doontii Titanic ay sii degayso.
+USER: And the reason behind this was actually really important.
+ASSISTANT: Sababta ka dambaysayna dhab ahaantii aad ayay muhiim u ahayd.
+USER: You see, if the passengers started panicking, they would have trampled each other, which would have blocked the exits, causing more people to die.
+ASSISTANT: Waad aragtay, haddii ay rakaabku argagaxi lahaayeen, way isku jiri lahaayeen, taasi oo xiri lahayd albaabada laga baxo, markaana dad badan ay dhiman lahaayeen.
+USER: But the sound of the music helped set a different tone.
+ASSISTANT: Laakiin dhawaqa muusigga wuxuu caawiyay inuu abuuro jawi deganaansho ah.
+USER: It told the passengers that it was okay to be calm as the lifeboats were loaded up.
+ASSISTANT: Wuxuu rakaabka u sheegayay inay is dajiyaan inta doonyaha badbaadada dadka lagu gurayo.
+USER: Sadly, every member of the band died that night.
+ASSISTANT: Nasiib-darro, dhammaan xubnihii kooxda muusigga ayaa dhintay habeenkaas.
+USER: And one of the only traces left behind was a single violin.
+ASSISTANT: Waxyaabaha yar ee laga helay meeshiina wuxuu ahaa hal kaman kaliya.
+USER: It was displayed in a museum decades later, honoring their sacrifice.
+ASSISTANT: Tobaneeyo sano ka dib ayaa lagu soo bandhigay madxaf, si loo xuso naftii hurenimadooda.
+USER: If you dig in the ground, millions of years into the future, you might think you would find tumblers, smartphones, and cars.
+ASSISTANT: Haddii aad dhulka qoddo malaayiin sano ka dib, waxaad u malayn lahayd inaad helayso koobab, taleefanno iyo gawaari.
+USER: But, you would actually find a crap load of chicken bones.
+ASSISTANT: Laakiin dhab ahaantii waxaad helaysaa lafo digaag oo meel walba rassan oo aad u fara badan.
+USER: You see, humans eat billions of chickens every year, and most of those bones end up sealed in landfills.
+ASSISTANT: Waad aragtay, bini-aadamku waxay cunaan bilyan oo digaag ah sannad kasta, inta badan lafahaasna waxay ku dambeeyaan iyagoo ku xanniban meelaha qashinka lagu aaso.
+USER: Once buried, they would dry out and harden, lasting millions of years.
+ASSISTANT: Marka la aaso ka dib, way engegayaan waana adkaanayaan, iyagoo sii jiri kara malaayiin sano.
+USER: So, future explorers would find billions in Earth's layers, which might lead them to think chickens had ruled the world.
+ASSISTANT: Sidaas darteed, dadka mustaqbalka wax baari doona waxay bilyan oo lafo ah ka heli doonaan lakabyada dhulka, taasi oo keeni karta inay u malaynayaan in digaaggu dunida ka talin jiray.
+USER: If you tie a string around a loose tooth and tie the other end to an arrow, you might think you could shoot it to pull the tooth out.
+ASSISTANT: Haddii aad xarig ku xirto ilig ruxmaya darafka kalena aad ku xirto fallaar, waxaad u malayn kartaa inaad gannayso si iliggu u soo baxo.
+USER: But, since it pulls forward instead of up, this could easily rip your gums.
+ASSISTANT: Laakiin, maadaama uu horay u soo jiidayo halkii uu kor ugu qaadi lahaa, tani waxay si fudud u dillaacin kartaa ciridkaaga.
+USER: Like, if you tied one arrow to every tooth, then shot them all at the same time, the force could snap your teeth off at the root instead of pulling them out,
+ASSISTANT: Tusaale ahaan, haddii aad fallaar ku xirto ilig kasta, ka dibna aad wada ganto hal mar, xooggaas wuxuu goyn karaa ilkahaaga xididka hoose halkii uu soo bixin lahaa,
+USER: which is why you should probably just let nature handle it.
+ASSISTANT: waana sababta ay u fiicantahay inaad iska deyso oo aad dabeecadda u dayso inay maamusho.
+USER: Mix 3 cups of sugar with 1 cup of water.
+ASSISTANT: Isku qas saddex koob oo sonkor ah iyo hal koob oo biyo ah.
+USER: Then heat it up while stirring. Once it's clear, pour the hot syrup into a glass jar.
+ASSISTANT: Ka dibna kululee adoo walaaqaya, markay dhalanteed noqotana, ku shub sharoobada kulul dhalo quraarad ah.
+USER: Next, cut a clean piece of string, about 2/3 the length of the jar, and tie it to a stick.
+ASSISTANT: Sidoo kale, jar xarig nadiif ah oo dhererkiisu le'eg yahay labo meelood saddex meelood dhalada, kuna xir qori yar.
+USER: Dip the string in the syrup, then let it dry hard before balancing the stick on top of the jar so the string hangs inside without touching the sides.
+ASSISTANT: Geli xarigga sharoobada dhexdeeda, ka dibna u daa inuu si adag u engego ka hor intaanad qoriga dusha saarin dhalada si uu xariggu gudaha ugu laadlaado isagoon taaban gidaarada.
+USER: As the liquid cools, it will release sugar particles, which will form crystals along the string.
+ASSISTANT: Markay sharoobadu qaboobeyso, waxay sii deynaysaa jajabyo sonkor ah, kuwaas oo qaab kirishto ah ugu ururi doona xarigga dushiisa.
+USER: And after a week, you'll have a hard chunk of rock candy.
+ASSISTANT: Toddobaad ka dibna, waxaad heli doontaa xabbad adag oo nacnac sonkor ah.
+USER: The ants climbed onto the plank, which was then loaded into a boat and shipped to a different country where they started their own colony.
+ASSISTANT: Quraanjadii waxay ku kaceen loox, ka dibna looxii waxaa lagu raray doon waxaana loo dhoofiyay dal kale oo ay ka dhex sameysteen koox u gaar ah.
+USER: And this happened countless times until these ants were spread all over the world.
+ASSISTANT: Arrintanna waxay dhacday marar badan oo aan la tirin karin ilaa ay quraanjadan ku faaftay aduunka oo dhan.
+USER: But even after a century of living thousands of miles apart, their chemical smells are still super similar.
+ASSISTANT: Laakiin xataa ka dib boqol sano oo ay ku kala noolaayeen meelo kumanaan mayl isu jira, urta kiimikada ee ay leeyihiin wali aad ayay isu leedahay.
+USER: And if you put together two of these ants from two different continents, they'll still act like they're from the same colony.
+ASSISTANT: Haddii aad isu keento labo quraanjo oo ka kala yimid labo qaaradood oo kala duwan, haddana waxay u dhaqmayaan sidii iyagoo ka yimid hal guri oo kaliya.
+
+USER: You would pause the movie, hit print on the remote, and inside the TV, the paused image is copied from the screen into the printer's memory.
+ASSISTANT: Waxaad hakinaysaa filimka, waxaadna rimootka ka riixaysaa badanka print-ka, markaasaa sawirkii istaagay laga koobiyaynayaa shaashadda oo lagu shubayaa qaybta kaydka ee daabacaha TV-ga dhexdiisa.
+USER: After converting the signal into color data, the printer feeds in a blank sheet, then runs heated color panels over it in precise patterns, matching the paused frame exactly.
+ASSISTANT: Markii uu calaamadda u beddelo midabyo, daabacuhu wuxuu soo gelinayaa warqad cad, wuxuuna dusha ka marsiinayaa looxo midabaysan oo kulul si uu u soo saaro dhab ahaan sawirkii aad hakisay.
+USER: Once the colors are in place, the sheet is laminated and the finished photo slides out of the TV as you resume your movie.
+ASSISTANT: Markay midabyadu wada fariistaan, warqadda dusha ayaa laga lamiineeyaa, sawirkii oo diyaar ahna wuxuu ka soo siibanayaa TV-ga dhexdiisa adigoo filimkaagii iska sii wadanaya.
+
+USER: Imagine you licked a wet banana.
+ASSISTANT: Iska dhig inaad leeftay moos qoyan.
+USER: Now, you can probably feel it in detail on your tongue, even though you've never done it.
+ASSISTANT: Hadda, waxaa laga yaabaa inaad dareenkiisa oo buuxa ku dareemi karto carrabkaaga, inkastoo aadan waligaa samayn.
+USER: Why is this? Well, your brain already knows what a banana peel feels like.
+ASSISTANT: Maxay taasi u dhacaysaa? Maskaxdaadu mar horeba waxay taqaanaa sida uu dareen ahaan yahay maqaarka mooska.
+USER: It also knows what wet and slippery feel like from other things you may have licked.
+ASSISTANT: Sidoo kale waxay taqaanaa dareenka qoyaanka iyo siibashada ee laga helo waxyaabihii kale ee aad soo leeftay.
+USER: Your brain takes those pieces and assembles a prediction.
+ASSISTANT: Maskaxdaadu waxay soo qaadataa qaybahaas ka dibna waxay isku xirtaa qiyaas hordhac ah.
+USER: So, you're not remembering the sensation, you're building it in real time.
+ASSISTANT: Sidaas darteed, ma ahan inaad xasuusanayso dareenkaas, ee hadda ayaad dhisaysaa isla marka la joogo.
+USER: The brain does this to predict the world before you touch it.
+ASSISTANT: Maskaxdu waxay waxan u samaysaa inay ku qiyaasto adduunka ka hor intaanad taaban.
+USER: That way, you can decide what to avoid without learning the hard way.
+ASSISTANT: Sidaasna, waxaad ku garan kartaa waxaad iska ilaalin lahayd adigoon dhibaato marin.
+
+USER: He climbed up a tall stone pillar and sat down to pray, but crowds of people started showing up for religious advice, distracting him from praying.
+ASSISTANT: Wuxuu fuulay tiir dhagax ah oo dheer si uu u duceysto, laakiin dad badan ayaa bilaabay inay u yimaadaan talo diini ah dartiis, taasi oo ka mashquulisay ducadiisii.
+USER: So, he climbed up an even taller pillar and had his food and water pulled up through ropes.
+ASSISTANT: Sidaas darteed, wuxuu fuulay tiir kale oo ka sii dheer, cuntadiisa iyo biyihiisana xargo ayaa loogu soo jiidi jiray kor.
+USER: For decades, he endured rainstorms and intense heat, and legend says that when his mother died, he even had her body moved there so he could say goodbye.
+ASSISTANT: Tobaneeyo sano wuxuu u dhabar-adaygay roobab xoog leh iyo kuleyl daran, sheekooyinkana waxay sheegayaan in markii hooyadiis dhimatay uu xataa meydkeeda meeshaas keenay si uu u sagootiyo.
+USER: After about 40 years, he finally died, bent forward in prayer, and he was buried by the same crowds he avoided in life.
+ASSISTANT: Qiyaastii afartan sano ka dib, ugu dambayntii wuxuu dhintay isagoo u foorara ducada, waxaana aasay isla dadkii badnaa ee uu noloshiisa iska ilaalinayay.
+
+USER: He found a bowl of honey sitting on the road and decided to eat it as a snack.
+ASSISTANT: Wuxuu jidka ka helay baaquli malab ah oo yaalla, markaasuu go'aansaday inuu iska cuno.
+USER: And the other soldiers found more and they did the same thing.
+ASSISTANT: Askartii kalena waxay heleen malab kale, iyagiina isla sidiisii ayay sameeyeen.
+USER: But soon after they started vomiting and got terrible diarrhea.
+ASSISTANT: Laakiin wax yar ka dibba waxaa ku bilowday matag iyo shuban aad u daran.
+USER: They even acted drunk, barely able to stand.
+ASSISTANT: Xataa waxay u dhexayeen sidii dad sakhraansan oo kale, iyagoo xajis waayay inay cagahooda ku istaagaan.
+USER: You see, the bees in that area collected nectar from poisonous flowers which transferred into the honey.
+ASSISTANT: Waad aragtay, shinnida deegaankaas waxay dheecaanka ka soo qaadi jirtay ubaxyo sumaysan, taasi oo markaas malabka u gudbi jirtay.
+USER: And the enemy knew this.
+ASSISTANT: Cadowguna arrintaas mar hore ayuu ogaa.
+USER: So he collected the honey before leaving it out to make the soldiers sick.
+ASSISTANT: Sidaas darteed, wuxuu soo ururiyay malabkii ka dibna wuxuu uga tagay jidka si uu askarta u xanuujiyo.
+USER: And once they were weak, the army attacked, killing hundreds of confused men and winning the battle, all thanks to the
+ASSISTANT: Markay daciifeen ka dibna, ciidankii ayaa soo weeraray, waxayna dileen boqolaal nin oo wareersan iyagoo ku guuleystay dagaalkii, waxaas oo dhanna waxaa u suurtageliyay...
+
+USER: The live wire fell on him, sending over 7,000 volts through his body.
+ASSISTANT: Fiilo koronto oo shidan ayaa ku dhacday, taasi oo jidkiisa marsiisay koronto ka badan toddoba kun oo volt.
+USER: He was so burned that he lost both his legs and one of his arms.
+ASSISTANT: Sidoo kale aad ayuu u gubtay, wuxuuna ku waayay labadiisa lugood iyo hal gacan.
+USER: And doctors had to replace huge patches of his skin.
+ASSISTANT: Dhaqaatiirtuna waxay ku qasbanaadeen inay maqaar kale ku beddelaan meelo waaweyn oo jidkiisa ka mid ah.
+USER: But this destroyed his sweat glands, meaning he couldn't sweat, which meant he couldn't cool down.
+ASSISTANT: Laakiin tani waxay gubtay qanjirihii dhididka, taasna waxay keentay inuu dhididi waayo oo uu jirkiisu qabowbi waayo.
+USER: Instead, he had to use an air conditioner constantly so he wouldn't overheat.
+ASSISTANT: Taas baddalkeeda, wuxuu mar kasta shidan jiray qaboojiye AC ah si jidkiisu uusan aad u kululaan.
+USER: But one day the power went out which meant the AC went out and he was found dead the next day.
+ASSISTANT: Laakiin maalin ayay korontadu ka baxday, AC-gii baana damay, maalintii xigtayna waxaa la helay isagoo dhimasho ah.
+
+USER: Hammer in three nails, but not all the way.
+ASSISTANT: Ku garaac saddex musbaar, laakiin ha u wada dhex gelin ilaa hoos.
+USER: Then snip the heads off of each one and hammer them further through the joint until the metal sits deeper inside.
+ASSISTANT: Ka dibna madaxa ka goo mid kasta, sii garaacna ilaa ay birta hoos ugu sii siibato meeshii laysku hayay.
+USER: Then place another nail on top and tap it with a hammer to push the nails slightly below the surface.
+ASSISTANT: Ka dibna musbaar kale dusha ka saar oo si tartiib ah dubbe ugu garaac si uu musbaarihii hore dusha sare wax yar uga hoos mariyo.
+USER: Now put glue in each hole and wedge in wooden plugs.
+ASSISTANT: Haddana god kasta xabag ku shub, ka dibna ku riix xabbado qori ah oo yar yar oo lagu gufeynaayo.
+USER: Saw the plugs so they're the same height as the board and sand the surface smooth, making the nails invisible.
+ASSISTANT: Qoryahaas yaryar miishaar ku jar si ay ula simmaan looxda, dushana ka siriiddo si ay u lamiinto, taasi oo ka dhigaysa musbaarihii kuwo aan la arki karin.
+
+USER: He put on the glasses, which flipped everything upside down in his vision.
+ASSISTANT: Wuxuu gashaday muraayado wax walba oo uu arkayo ka dhigay foorari.
+USER: And at first, he could hardly use his limbs.
+ASSISTANT: Bilowgiina, aad ayay ugu adkayd inuu gacmihiisa iyo lugahiisa si fiican u isticmaalo.
+USER: In a sword fight, he would aim up when he should have aimed down.
+ASSISTANT: Haddii uu seef ku dagaallamayo, kor ayuu wax u abbaari jiray markii ay ahayd inuu hoos u abbaaro.
+USER: But, as he practiced, his brain started to turn the image the right way.
+ASSISTANT: Laakiin, markii uu sii tababaranayay, maskaxdiisii waxay bilowday inay sawirka u rogto dhankii saxda ahaa.
+USER: So, even when an object appeared at the top of his glasses, his hand reached down.
+ASSISTANT: Sidaas darteed, xataa haddii wax ka muuqdaan dusha sare ee muraayadda, gacantiisu hoos ayay u fidsami jirtay.
+USER: After a few weeks, he could do everything normally.
+ASSISTANT: Dhowr toddobaad ka dib, wax kasta si caadi ah ayuu u qabsan karay.
+USER: But, when he finally took them off, his brain flipped that image upside down,
+ASSISTANT: Laakiin, markii uu ugu dambayntii iska bixiyay, maskaxdiisii ayaa sawirkii caadiga ahaa foorari u rogtay,
+USER: meaning he was lost again until his brain finally caught up a few minutes later.
+ASSISTANT: taasi oo ka dhigtay inuu haddana wareero ilaa ay maskaxdiisu dib ula qabsanaysay dhowr daqiiqo ka dib.
+
+USER: If a human is buried underneath the rubble, but they're still living, their heartbeat will make tiny movements in their chest while their breathing expands their lungs.
+ASSISTANT: Haddii qof uu ku hoos jiro burburka laakiin uu weli nool yahay, garaaca wadnihiisa ayaa dhaqdhaqaaq yar ka samaynaya laabtiisa, neefsashaduna waxay weynaysaa sambabbadiisa.
+USER: This is enough to be picked up by the radar and detected by this special device.
+ASSISTANT: Tani waxay ku filan tahay in raadarku qabto, qalabkan gaarka ahna uu ku dareemo.
+USER: Even if the person is unconscious, it still sends a signal back telling rescuers that someone is down
+ASSISTANT: Xataa haddii uu qofku suuxsan yahay, qalabku wuxuu dib u soo dirayaa calaamad u sheegaysa kooxda badbaadada in qof uu hoos ku jiro.
+
+USER: He built a cylinder out of Legos, adding a piston inside.
+ASSISTANT: Wuxuu Legos ka dhisay silandari, wuxuuna gudaha kaga riday baston.
+USER: Then he repeated this hundreds of times before stacking them together and connecting them to bottles of compressed air.
+ASSISTANT: Ka dibna wuxuu saas sameeyay boqolaal jeer, ka hor intaanu isu dhoobin oo uu ku xirin dhalooyin hawo lagu cadaadiyay.
+USER: Next, he built a shell for the outside before adding wheels on the sides.
+ASSISTANT: Sidoo kale, wuxuu u sameeyay qolof dibadda ka daboolta ka hor intaanu taayirro dhinacyada kaga xirin.
+USER: When the air was released, it rushed through the cylinders and pumped the pistons up and down, turning the gears and spinning the wheels with nothing but air.
+ASSISTANT: Markii hawada la sii daayay, waxay ku dhex carartay silandariyadii, waxayna bastonnadii kor iyo hoos u riixday, taasi oo wareejisay garyadii, taayirradiina ku rogtay hawo kaliya.
+USER: But the engine was a lot weaker than a normal car.
+ASSISTANT: Laakiin matoorku aad ayuu uga daciifsanaa kan baabuurta caadiga ah.
+USER: So it was barely faster than riding a bike.
+ASSISTANT: Sidaas darteed, dirqi ayuu kaga dheereeyay qof baaskiil wata.
+
