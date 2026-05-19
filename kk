@@ -16,7 +16,7 @@ from transformers import (
 from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training, TaskType
 from huggingface_hub import login
 
-hf_token = "HALKAN_GELI_TOKEN_KAAGA"
+hf_token = "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"
 hf_repo = "maanka2/opus-mt-synthetic-en-so-finetuned"
 login(token=hf_token)
 
