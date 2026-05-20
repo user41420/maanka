@@ -2,7 +2,7 @@
 A clean Somali ↔ English bilingual dataset designed for machine translation and multilingual AI systems.
 The dataset contains conversational text, common phrases, education, healthcare, technology, business, and daily communication examples in Somali and English.
 ## Features
-- Somali ↔ English parallel text
+- English ↔ Somali parallel text
 - Instruction-style format
 - Clean and lightweight dataset
 - Suitable for AI translation models
@@ -20,6 +20,7 @@ Use Cases
 * AI assistants
 * Educational AI systems
 
+The dataset is created by Chat GPT 5.5.
 
 License
 
