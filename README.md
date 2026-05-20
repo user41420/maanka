@@ -9,8 +9,8 @@ The dataset contains conversational text, common phrases, education, healthcare,
 - UTF-8 plain text format
 ## Format
 ```txt
-USER: Hello
-ASSISTANT: Salaam
+EN : Hello
+SO : Salaam
 
 Use Cases
 
@@ -20,9 +20,6 @@ Use Cases
 * AI assistants
 * Educational AI systems
 
-Available Files
-
-basic.txt
 
 License
 
