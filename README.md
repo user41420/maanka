@@ -1,4 +1,4 @@
-# Somali-English Translation Dataset
+# English-Somali Translation Dataset txt
 A clean Somali ↔ English bilingual dataset designed for machine translation and multilingual AI systems.
 The dataset contains conversational text, common phrases, education, healthcare, technology, business, and daily communication examples in Somali and English.
 ## Features
