@@ -9,8 +9,8 @@ The dataset contains conversational text, common phrases, education, healthcare,
 - UTF-8 plain text format
 ## Format
 ```txt
-EN : Hello
-SO : Salaam
+EN: Hello
+SO: Salaam
 
 Use Cases
 
