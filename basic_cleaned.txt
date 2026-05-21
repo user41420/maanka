@@ -617,19 +617,13 @@ EN: Grandmother
 SO: Ayeeyo
 
 EN: Uncle
-SO: Adeer ama Abti
+SO: Adeer
 
 EN: Aunt
-SO: Eedo ama Habaryar
+SO: Eedo
 
 EN: Cousin
-SO: Inaadeer ama Inaabti
-
-EN: Nephew
-SO: Wiilka walaalkay ama walaashay dhashay
-
-EN: Niece
-SO: Gabadha walaalkay ama walaashay dhashay
+SO: Ina adeer
 
 EN: Friend
 SO: Saaxiib
@@ -1058,7 +1052,7 @@ EN: Shoulder
 SO: Garabka
 
 EN: Arm
-SO: Gacanta
+SO: Gacan
 
 EN: Elbow
 SO: Xusulka
