@@ -13537,6 +13537,303 @@ SO: Haraaga lafaha waxay na tusaan xayawaankii noolaa beri hore
 EN: The Earth is about 45 billion years old
 SO: Dhulku wuxuu jiraa qiyaastii 45 bilyan oo sano
 
+
+EN: The cow and the goat are eating. SO: Lo'da iyo arigu wax bay cunayaan.
+
+EN: The monkey is eating a banana and a mango. SO: Daanyeerku wuxuu cunayaa moos
+iyo cambe.
+
+EN: The chicken and the rooster are near the tractor. SO: Digaagga iyo diiqu
+waxay u dhow yihiin cagaf-cagafka.
+
+EN: The duck and the fish are swimming. SO: Boolonboollada iyo malaaygu way
+dabaalanayaan.
+
+EN: The rabbit is eating an apple. SO: Bakayluhu wuxuu cunayaa tufaax.
+
+EN: The frog and the snail are slow. SO: Raha iyo tixridu way gaabiyaan.
+
+EN: The fox and the hyena are running. SO: Dawacada iyo waraabuhu way ordayaan.
+
+EN: He is looking at the leopard and the cheetah through the binoculars. SO:
+Wuxuu haramcadka iyo shabeelka ku eegayaa doobire.
+
+EN: The zebra, the giraffe, and the buffalo are walking. SO: Dameerfarowga,
+geriga, iyo lo' gisigu way socdaan.
+
+EN: The bear and the deer are near the prosopis. SO: Madaxkutiga iyo deeradu
+waxay u dhow yihiin geedyahuudka.
+
+EN: The hippopotamus and the crocodile are big. SO: Jeerta iyo yaxaasku waa
+waaweyn yihiin.
+
+EN: The lizard is near the cactus. SO: Bulacu wuxuu u dhow yahay tiitiinka.
+
+EN: The turtle is very slow. SO: Diidiinku aad buu u gaabiyaa.
+
+EN: The eagle and the owl are flying. SO: Gorgorka iyo guumaysku way duulayaan.
+
+EN: The parrot and the pigeon are near the flower. SO: Baqbaqaaqa iyo qoolleydu
+waxay u dhow yihiin ubaxa.
+
+EN: The bat and the crow are flying. SO: Fiidmeerka iyo tukuhu way duulayaan.
+
+EN: The mouse is under the washing machine. SO: Dooligu wuxuu ku jiraa
+qasaaradda hoosteeda.
+
+EN: The rhino and the dinosaur are very big. SO: Wiiylka iyo dinasoorku aad bay
+u waaweyn yihiin.
+
+EN: The fly and the cockroach are on the can. SO: Duqsiga iyo barambaradu waxay
+saaran yihiin gasaca.
+
+EN: A bedbug is in the towel. SO: Dhiqle ayaa ku jira shukumaanka.
+
+EN: She is eating plumpy'nut. SO: Iyadu waxay cunaysaa buskuddhiiq.
+
+EN: He is eating an orange and ice cream. SO: Isagu wuxuu cunayaa liin iyo
+jalaato.
+
+EN: She is eating chewing gum. SO: Iyadu waxay cunaysaa xanjo.
+
+EN: The spider and the scorpion are on the stairs. SO: Caarada iyo dabaqaloocu
+waxay saaran yihiin jaranjarada.
+
+EN: The butterfly and the grasshopper are near the flower. SO: Balanbaalista iyo
+ayaxu waxay u dhow yihiin ubaxa.
+
+EN: The worms and the caterpillars are eating the leaf. SO: Gooriyaanka iyo
+diirdiiratadu waxay cunayaan caleenta.
+
+EN: The hornet and the locust are flying. SO: Xoonka iyo anyaxu way duulayaan.
+
+EN: Put the parachute in the car. SO: Baalshuutka ku rid baabuurka.
+
+EN: He is playing with lego and a toy doll. SO: Wuxuu ku ciyaarayaa alaab alaa
+bey iyo caruusad.
+
+EN: The nail is on the cement. SO: Musbaarku wuxuu saaran yahay shamiitada.
+
+EN: The lesbian and the gay are talking. SO: Qaniisadda iyo qaniisku way wada
+hadlayaan.
+
+EN: Put the bra, panties, and briefs in the washing machine. SO: Rajistiinka,
+kastuumada, iyo buumada ku rid qasaaradda.
+
+EN: The diaper has feces and urine. SO: Xafaayaddu waxay leedahay xaar iyo
+kaadi.
+
+EN: He has diarrhea. SO: Isagu wuxuu qabaa shuwan.
+
+EN: Put the plug in the socket. SO: Doobire bareeska geli bareeska.
+
+EN: She is looking through the telescope. SO: Iyadu waxay wax ka eegaysaa
+teleskoobka.
+
+EN: He has a big mustache. SO: Isagu wuxuu leeyahay shaarbe weyn.
+
+EN: The syringe is near the radiation. SO: Saliinguhu wuxuu u dhow yahay
+shucaaca.
+
+EN: The toothbrush and the toothpaste are near the towel. SO: Burushka ilkaha
+iyo boomaatada ilkaha waxay u dhow yihiin shukumaanka.
+
+EN: The sheep is eating the flower. SO: Iduhu waxay cunayaan ubaxa.
+
+EN: The chicken is looking at the worms. SO: Digaaggu wuxuu eegayaa aboor /
+gooriyaan.
+
+EN: The car is near the tractor. SO: Baabuurku wuxuu u dhow yahay cagaf-cagafka.
+
+EN: The eagle is eating the mouse. SO: Gorgorku wuxuu cunayaa dooliga.
+
+EN: Put the toy doll in the car. SO: Caruusadda ku rid baabuurka.
+
+EN: He is playing with the lego. SO: Isagu wuxuu ku ciyaarayaa alaab alaa bey.
+
+EN: The bat is flying near the parachute. SO: Fiidmeerku wuxuu ka duulayaa
+baalshuutka agtiisa.
+
+EN: The tortoise is walking. SO: Diinku wuu socdaa.
+
+EN: The owl and the bat are flying near the stairs. SO: Guumayska iyo fiidmeerku
+waxay ka duulayaan jaranjarada agteeda.
+
+EN: The crocodile is looking at the duck and the fish. SO: Yaxaasku wuxuu
+eegayaa boolonboollada iyo malaayga.
+
+EN: The monkey is eating an apple, a mango, and an orange. SO: Daanyeerku wuxuu
+cunayaa tufaax, cambe, iyo liin.
+
+EN: The hyena and the fox are looking at the chicken. SO: Waraabaha iyo dawacadu
+waxay eegayaan digaagga.
+
+EN: The toy doll and the lego are under the parachute. SO: Caruusadda iyo alaab
+alaa beydu waxay ku jiraan baalshuutka hoostiisa.
+
+EN: The cement is in the car and the tractor. SO: Shamiitadu waxay ku jirtaa
+baabuurka iyo cagaf-cagafka.
+
+EN: Put the toothbrush and the toothpaste on the towel. SO: Burushka ilkaha iyo
+boomaatada ilkaha dhig shukumaanka dushiisa.
+
+EN: The bra, panties, and briefs are in the washing machine. SO: Rajistiinka,
+kastuumada, iyo buumadu waxay ku jiraan qasaaradda.
+
+EN: The diaper is full of feces and urine. SO: Xafaayaddu waxay ka buuxdaa xaar
+iyo kaadi.
+
+EN: He has diarrhea and urine. SO: Isagu wuxuu qabaa shuwan iyo kaadi.
+
+EN: The frog and the snail are on the cactus. SO: Raha iyo tixridu waxay saaran
+yihiin tiitiinka.
+
+EN: The spider, the bedbug, and the cockroach are near the socket. SO: Caarada,
+dhiqlaha, iyo barambaradu waxay u dhow yihiin bareeska.
+
+EN: Put the plug in the socket. SO: Doobire bareeska geli bareeska.
+
+EN: He is looking at the eagle through the telescope and the binoculars. SO:
+Isagu wuxuu gorgorka ku eegayaa teleskoobka iyo doobiraha.
+
+EN: The gay and the lesbian are looking at the mustache. SO: Qaniiska iyo
+qaniisaddu waxay eegayaan shaarbaha.
+
+EN: She is eating plumpy'nut, a banana, and ice cream. SO: Iyadu waxay cunaysaa
+buskuddhiiq, moos, iyo jalaato.
+
+EN: The chewing gum is on the can. SO: Xanjadu waxay saaran tahay gasaca.
+
+EN: The syringe and the radiation are near the cement. SO: Saliingaha iyo
+shucaacu waxay u dhow yihiin shamiitada.
+
+EN: The dinosaur, the rhino, and the hippopotamus are big. SO: Dinasoorka,
+wiiylka, iyo jeertu waa waaweyn yihiin.
+
+EN: The rooster, the pigeon, and the crow are near the prosopis. SO: Diiqa,
+qoolleyda, iyo tukuhu waxay u dhow yihiin geedyahuudka.
+
+EN: The bear and the buffalo are looking at the deer. SO: Madaxkutiga iyo lo'
+gisigu waxay eegayaan deerada.
+
+EN: The scorpion is looking at the locust and the hornet. SO: Dabaqaloocu wuxuu
+eegayaa anyaxka iyo xoonka.
+
+EN: The worms and the caterpillars are near the flower. SO: Gooryaanka iyo
+diirdiiratadu waxay u dhow yihiin ubaxa.
+
+EN: The cheetah and the leopard are running near the zebra. SO: Shabeelka iyo
+haramcadku waxay ka ordayaan dameerfarowga agtiisa.
+
+EN: The nail is in the cement. SO: Musbaarku wuxuu ku jiraa shamiitada.
+
+EN: The tortoise and the snail are slow. SO: Diinka iyo tixridu way gaabiyaan.
+
+EN: The fly is on the cow and the sheep. SO: Duqsigu wuxuu saaran yahay lo'da
+iyo idaha.
+
+EN: The parachute is on the tractor and the car. SO: Baalshuutku wuxuu saaran
+yahay cagaf-cagafka iyo baabuurka.
+
+EN: The syringe is near the diaper. SO: Saliinguhu wuxuu u dhow yahay
+xafaayadda.
+
+EN: The parrot is eating a mango and an apple. SO: Baqbaqaaqu wuxuu cunayaa
+cambe iyo tufaax.
+
+EN: The grasshopper and the butterfly are on the cactus. SO: Ayaxa iyo
+balanbaalistu waxay saaran yihiin tiitiinka.
+
+EN: The chimpanzee is playing with the toy doll and the lego. SO: Daanyeerku
+wuxuu ku ciyaarayaa caruusadda iyo alaab alaa beyda.
+
+EN: The cow, the goat, and the sheep are near the tractor. SO: Lo'da, ariga, iyo
+iduhu waxay u dhow yihiin cagaf-cagafka.
+
+EN: The bedbug and the cockroach are on the panties and the briefs. SO: Dhiqlaha
+iyo barambaradu waxay saaran yihiin kastuumada iyo buumada.
+
+EN: The bat and the owl are looking at the mouse. SO: Fiidmeerka iyo guumaysku
+waxay eegayaan dooliga.
+
+EN: The eagle is flying near the parachute. SO: Gorgorku wuxuu ka duulayaa
+baalshuutka agtiisa.
+
+EN: Put the chewing gum and the can in the car. SO: Xanjada iyo gasaca dhig
+baabuurka.
+
+EN: The lizard and the frog are under the stairs. SO: Bulaca iyo rahu waxay ku
+jiraan jaranjarada hoosteeda.
+
+EN: She is washing the bra and the towel in the washing machine. SO: Iyadu waxay
+qasaaradda ku dhaqaysaa rajistiinka iyo shukumaanka.
+
+EN: He has a mustache and he is looking through the binoculars. SO: Isagu wuxuu
+leeyahay shaarbe, wuxuuna wax ka eegayaa doobiraha.
+
+EN: The plug and the socket are near the cement. SO: Doobire bareeska iyo
+bareesku waxay u dhow yihiin shamiitada.
+
+EN: The pigeon and the crow are eating the worms. SO: Qoolleyda iyo tukuhu waxay
+cunayaan aboor iyo tixri.
+
+EN: The zebra and the giraffe are eating the prosopis. SO: Dameerfarowga iyo
+gerigu waxay cunayaan geedyahuudka.
+
+EN: He is eating plumpy'nut and a banana. SO: Isagu wuxuu cunayaa buskuddhiiq
+iyo moos.
+
+EN: The crocodile is swimming near the turtle. SO: Yaxaasku wuxuu ka
+dabaalanayaa diidiinka agtiisa.
+
+EN: The feces and the urine are on the diaper. SO: Xaarka iyo kaadidu waxay ku
+yaallaan xafaayadda.
+
+EN: The syringe and the nail are on the cement. SO: Saliingaha iyo musbaarku
+waxay saaran yihiin shamiitada.
+
+EN: The leopard and the cheetah are near the car. SO: Haramcadka iyo shabeelku
+waxay u dhow yihiin baabuurka.
+
+EN: She is eating ice cream and orange. SO: Iyadu waxay cunaysaa jalaato iyo
+liin.
+
+EN: The hornet and the fly are on the flower. SO: Xoonka iyo duqsigu waxay
+saaran yihiin ubaxa.
+
+EN: The gay and the lesbian are looking through the telescope. SO: Qaniiska iyo
+qaniisaddu waxay wax ka eegayaan teleskoobka.
+
+EN: The rabbit and the duck are looking at the fish. SO: Bakaylaha iyo
+boolonboolladu waxay eegayaan malaayga.
+
+EN: The toothbrush and the toothpaste are near the socket. SO: Burushka ilkaha
+iyo boomaatada ilkaha waxay u dhow yihiin bareeska.
+
+EN: The scorpion is under the car. SO: Dabaqaloocu wuxuu ku jiraa baabuurka
+hoostiisa.
+
+EN: The tractor is near the radiation. SO: Cagaf-cagafku wuxuu u dhow yahay
+shucaaca.
+
+EN: He has diarrhea and feces on the towel. SO: Wuxuu leeyahay shuwan iyo xaar
+ku yaalla shukumaanka.
+
+EN: The bear and the deer are eating the flower. SO: Madaxkutiga iyo deeradu
+waxay cunayaan ubaxa.
+
+EN: Put the briefs and the diaper in the washing machine. SO: Buumada iyo
+xafaayadda ku rid qasaaradda.
+
+EN: The rooster is looking at the caterpillars. SO: Diiqu wuxuu eegayaa
+diirdiiratada.
+
+EN: The spider and the bedbug are on the stairs. SO: Caarada iyo dhiqluhu waxay
+saaran yihiin jaranjarada.
+
+EN: The buffalo is looking at the tractor. SO: Lo' gisigu waxay eegaysaa
+cagaf-cagafka.
+
 EN: Pangea was a giant continent in the past
 SO: Pangea waxay ahayd qaarad weyn oo jirtay waagii hore
 
