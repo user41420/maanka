@@ -12605,7 +12605,7 @@ EN: A balanced diet contains fruits and vegetables
 SO: Cunto dheellitiran waxay ka kooban tahay miro iyo khudaar
 
 EN: Vitamin C helps in boosting immunity
-SO: Fiitamiin Cga wuxuu caawiyaa xoojinta difaaca
+SO: Fiitamiin C ga wuxuu caawiyaa xoojinta difaaca
 
 EN: Proteins are the building blocks of muscles
 SO: Borotiinku waa unugyada dhismaha muruqa
@@ -12686,7 +12686,7 @@ EN: The child is happy
 SO: Ilmuhu waa faraxsan yahay
 
 EN: Eyebrow
-SO: Sunni
+SO: Sunniyaha
 
 EN: Eyelash
 SO: Baalindho
@@ -12713,7 +12713,10 @@ EN: Penis
 SO: Gus
 
 EN: Testicles
-SO: Xunbeey
+SO: Xiniinyaha
+
+EN: Testis
+SO: Xiniin
 
 EN: Womb
 SO: Ilmogaleen
@@ -12739,9 +12742,6 @@ SO: Xuddun
 EN: Wifi
 SO: Wayfii
 
-EN: Microwave
-SO: Maykrawayf
-
 EN: Refrigerator
 SO: Firiij
 
@@ -12754,11 +12754,11 @@ SO: Kirli koroonto
 EN: Blender
 SO: Mashiinka casiirka
 
-EN: Hoof
-SO: Gobooy
+EN: Horse hoof 
+SO: Qoobka faraska
 
 EN: Claw
-SO: Cididdixayawaan
+SO: Ciddiyo fiiqan
 
 EN: Horn
 SO: Gees
@@ -12776,7 +12776,7 @@ EN: Fur
 SO: Dhogor
 
 EN: Mane
-SO: Guullibaax
+SO: Baar
 
 EN: Date fruit
 SO: Timir
